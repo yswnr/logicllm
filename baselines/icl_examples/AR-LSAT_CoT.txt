@@ -1,0 +1,29 @@
+Given a problem statement as contexts, the task is to answer a logical reasoning question. 
+------
+Context:
+During a single week, from Monday through Friday, tours will be conducted of a company's three divisions\u2014Operations, Production, and Sales. Exactly five tours will be conducted that week, one each day. The schedule of tours for the week must conform to the following restrictions: Each division is toured at least once. The Operations division is not toured on Monday. The Production division is not toured on Wednesday. The Sales division is toured on two consecutive days, and on no other days. If the Operations division is toured on Thursday, then the Production division is toured on Friday.
+
+Question: Which one of the following CANNOT be true of the week's tour schedule?
+
+Options: 
+A) The division that is toured on Monday is also toured on Tuesday.
+B) The division that is toured on Monday is also toured on Friday.
+C) The division that is toured on Tuesday is also toured on Thursday.
+D) The division that is toured on Wednesday is also toured on Friday.
+E) The division that is toured on Thursday is also toured on Friday.
+
+Reasoning:
+Since Thursday and Friday already have tours planned, only Monday, Tuesday and Wednesday tours need to be determined. On Tuesday, the Sales division is toured since that division is toured on only two consecutive days, i.e either Monday and Tuesday or Tuesday and Wednesday. A different division is toured on Thursday. Therefore, the final answer is C.
+
+The correct option is: C
+
+------
+Context:
+[[CONTEXT]]
+
+Question: [[QUESTION]]
+
+Options:
+[[OPTIONS]]
+
+Reasoning:

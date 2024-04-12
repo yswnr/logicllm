@@ -1,0 +1,29 @@
+Given a problem statement as contexts, the task is to answer a logical reasoning question. 
+------
+Context:
+The following paragraphs each describe a set of five objects arranged in a fixed order. The statements are logically consistent within each paragraph.\n\nOn a branch, there are five birds: a quail, an owl, a raven, a falcon, and a robin. The owl is the leftmost. The robin is to the left of the raven. The quail is the rightmost. The raven is the third from the left.
+
+Question: Which of the following is true?
+
+Options:
+A) The quail is the rightmost.
+B) The owl is the rightmost.
+C) The raven is the rightmost.
+D) The falcon is the rightmost.
+E) The robin is the rightmost.
+
+Reasoning:
+The owl is the leftmost. This means owl is not the rightmost. The robin is to the left of the raven. This means neither robin nor raven is the rightmost. The quail is the rightmost. This directly answers the question, so option A) The quail is the rightmost is true. The raven is the third from the left. This means raven is also not the rightmost. So, the answer is: A) The quail is the rightmost.
+
+The correct option is: A
+
+------
+Context:
+[[CONTEXT]]
+
+Question: [[QUESTION]]
+
+Options:
+[[OPTIONS]]
+
+Reasoning:
