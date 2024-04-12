@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "ProntoQA_1",
+    "question": "Is the following statement true or false? Max is sour.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a yumpus. Each yumpus is aggressive. Each yumpus is a dumpus. Dumpuses are not wooden. Dumpuses are wumpuses. Wu",
+    "predicted_answer": "Max is a yumpus. Each yumpus is aggressive. Each yumpus is a dumpus. Dumpuses are not wooden. Dumpuses are wumpuses. Wu"
+  },
+  {
+    "id": "ProntoQA_2",
+    "question": "Is the following statement true or false? Stella is bright.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a yumpus. Yumpuses are transparent. Yumpuses are zumpuses. Each zumpus is not bitter. Impuses are red. Each impus is a dumpus. Every",
+    "predicted_answer": "Stella is a yumpus. Yumpuses are transparent. Yumpuses are zumpuses. Each zumpus is not bitter. Impuses are red. Each impus is a dumpus. Every"
+  },
+  {
+    "id": "ProntoQA_3",
+    "question": "Is the following statement true or false? Wren is not metallic.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a tumpus. ------",
+    "predicted_answer": "Wren is a tumpus. ------"
+  },
+  {
+    "id": "ProntoQA_4",
+    "question": "Is the following statement true or false? Alex is not small.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a zumpus. ------",
+    "predicted_answer": "Alex is a zumpus. ------"
+  },
+  {
+    "id": "ProntoQA_5",
+    "question": "Is the following statement true or false? Alex is not dull.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a numpus. Rompuses are mean. Rompuses are zumpuses. Each numpus is not temperate. Each numpus is a tumpus. Tumpuse",
+    "predicted_answer": "Alex is a numpus. Rompuses are mean. Rompuses are zumpuses. Each numpus is not temperate. Each numpus is a tumpus. Tumpuse"
+  },
+  {
+    "id": "ProntoQA_6",
+    "question": "Is the following statement true or false? Wren is dull.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a tumpus. ------",
+    "predicted_answer": "Wren is a tumpus. ------"
+  },
+  {
+    "id": "ProntoQA_7",
+    "question": "Is the following statement true or false? Stella is happy.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a wumpus. Yumpuses are not happy. Dumppuses are not earthy. Each zumpus is a jompus. Stella is a wumpus.",
+    "predicted_answer": "Stella is a wumpus. Yumpuses are not happy. Dumppuses are not earthy. Each zumpus is a jompus. Stella is a wumpus."
+  },
+  {
+    "id": "ProntoQA_8",
+    "question": "Is the following statement true or false? Alex is hot.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a yumpus. Yumpuses are hot. So the answer is: A ------",
+    "predicted_answer": "Alex is a yumpus. Yumpuses are hot. So the answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_9",
+    "question": "Is the following statement true or false? Wren is wooden.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a tumpus. ------",
+    "predicted_answer": "Wren is a tumpus. ------"
+  },
+  {
+    "id": "ProntoQA_10",
+    "question": "Is the following statement true or false? Fae is sweet.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is a wumpus. YUMPUPS are sweet.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_11",
+    "question": "Is the following statement true or false? Sam is not fruity.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a jompus. Sam is a rompus. Sam is a jompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_12",
+    "question": "Is the following statement true or false? Fae is not floral.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a wumpus ------",
+    "predicted_answer": "Fae is a wumpus ------"
+  },
+  {
+    "id": "ProntoQA_13",
+    "question": "Is the following statement true or false? Max is dull.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a yumpus. Dumpus is opaque. Dumpus is a zumpus. So Max is a yumpus. Dumpus is a rompus. Rompuses are",
+    "predicted_answer": "Max is a yumpus. Dumpus is opaque. Dumpus is a zumpus. So Max is a yumpus. Dumpus is a rompus. Rompuses are"
+  },
+  {
+    "id": "ProntoQA_14",
+    "question": "Is the following statement true or false? Fae is opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is a jompus. Yumpuses are numpuses. Wumpuses are not opaque. Yumpuses are impuses. ------",
+    "predicted_answer": "Fae is a jompus. Yumpuses are numpuses. Wumpuses are not opaque. Yumpuses are impuses. ------"
+  },
+  {
+    "id": "ProntoQA_15",
+    "question": "Is the following statement true or false? Sam is not dull.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a numpus. YUMPUS is a wumpus. The answer: A ------",
+    "predicted_answer": "Sam is a numpus. YUMPUS is a wumpus. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_16",
+    "question": "Is the following statement true or false? Sally is small.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a rompus. Sally is a wumpus. Sally is a rompus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_17",
+    "question": "Is the following statement true or false? Fae is not opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is opaque. ------",
+    "predicted_answer": "Fae is opaque. ------"
+  },
+  {
+    "id": "ProntoQA_18",
+    "question": "Is the following statement true or false? Sam is fruity.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a yumpus. Every rompus is a yumpus. So Sam is a yumpus. So Sam is a fruity yumpus.",
+    "predicted_answer": "A"
+  },
+  {
+    "id": "ProntoQA_19",
+    "question": "Is the following statement true or false? Sam is not dull.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a dumpus. YUMPUTS are feisty. Dumpus are yumpuses. Dumpus are fruity. YUMPUTS are blue. YUMPU",
+    "predicted_answer": "Sam is a dumpus. YUMPUTS are feisty. Dumpus are yumpuses. Dumpus are fruity. YUMPUTS are blue. YUMPU"
+  },
+  {
+    "id": "ProntoQA_20",
+    "question": "Is the following statement true or false? Stella is sour.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a yumpus. Each yumpus is a dumpus. So Stella is a dumpus. Each tumpus is a vumpus. Each tumpus is",
+    "predicted_answer": "Stella is a yumpus. Each yumpus is a dumpus. So Stella is a dumpus. Each tumpus is a vumpus. Each tumpus is"
+  },
+  {
+    "id": "ProntoQA_21",
+    "question": "Is the following statement true or false? Max is orange.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a yumpus. Each yumpus is a zumpus. Every rompus is a jompus. Every jompus is bright. Every rompus is a jo",
+    "predicted_answer": "Max is a yumpus. Each yumpus is a zumpus. Every rompus is a jompus. Every jompus is bright. Every rompus is a jo"
+  },
+  {
+    "id": "ProntoQA_22",
+    "question": "Is the following statement true or false? Wren is not feisty.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a tumpus. Yumpuses are yumpuses. Yumpuses are sour. Yumpuses are yumpuses.",
+    "predicted_answer": "Wren is a tumpus. Yumpuses are yumpuses. Yumpuses are sour. Yumpuses are yumpuses."
+  },
+  {
+    "id": "ProntoQA_23",
+    "question": "Is the following statement true or false? Sally is bitter.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a dumpus. Sally is a yumpus. Sally is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_24",
+    "question": "Is the following statement true or false? Alex is amenable.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is an impus. YUMPUTS are not amenable. XXX ------",
+    "predicted_answer": "Alex is an impus. YUMPUTS are not amenable. XXX ------"
+  },
+  {
+    "id": "ProntoQA_25",
+    "question": "Is the following statement true or false? Sam is not dull.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a vumpus. Sam is a tumpus. The answer: A ------",
+    "predicted_answer": "Sam is a vumpus. Sam is a tumpus. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_26",
+    "question": "Is the following statement true or false? Rex is large.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a jompus. Rex is a tumpus. Rex is a jompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_27",
+    "question": "Is the following statement true or false? Fae is not aggressive.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a tumpus. ------",
+    "predicted_answer": "Fae is a tumpus. ------"
+  },
+  {
+    "id": "ProntoQA_28",
+    "question": "Is the following statement true or false? Alex is small.",
+    "answer": "B",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_29",
+    "question": "Is the following statement true or false? Max is bright.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a jompus. Each jompus is liquid. Jompuss are rompuses. Rompuses are zumpuses. Each zumpus is transparent. Humpuses are",
+    "predicted_answer": "Max is a jompus. Each jompus is liquid. Jompuss are rompuses. Rompuses are zumpuses. Each zumpus is transparent. Humpuses are"
+  },
+  {
+    "id": "ProntoQA_30",
+    "question": "Is the following statement true or false? Fae is temperate.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a wumpus. fae is a rompus. fae is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_31",
+    "question": "Is the following statement true or false? Wren is not angry.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a jompus. Wren is a wumpus. The answer: A ------",
+    "predicted_answer": "Wren is a jompus. Wren is a wumpus. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_32",
+    "question": "Is the following statement true or false? Sally is not wooden.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a numpus. ------",
+    "predicted_answer": "Sally is a numpus. ------"
+  },
+  {
+    "id": "ProntoQA_33",
+    "question": "Is the following statement true or false? Stella is not bright.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a yumpus. Yumpuses are rompuses. Every rompus is large. Every rompus is an impus. Impuses are not blue. Impuses are t",
+    "predicted_answer": "Stella is a yumpus. Yumpuses are rompuses. Every rompus is large. Every rompus is an impus. Impuses are not blue. Impuses are t"
+  },
+  {
+    "id": "ProntoQA_34",
+    "question": "Is the following statement true or false? Sam is shy.",
+    "answer": "B",
+    "predicted_reasoning": "False ------",
+    "predicted_answer": "False ------"
+  },
+  {
+    "id": "ProntoQA_35",
+    "question": "Is the following statement true or false? Fae is orange.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a jompus. ------",
+    "predicted_answer": "Fae is a jompus. ------"
+  },
+  {
+    "id": "ProntoQA_36",
+    "question": "Is the following statement true or false? Sally is shy.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a jompus. Every jompus is a wumpus. Each wumpus is wooden. Each wumpus is a yumpus. Yumpuses are",
+    "predicted_answer": "Sally is a jompus. Every jompus is a wumpus. Each wumpus is wooden. Each wumpus is a yumpus. Yumpuses are"
+  },
+  {
+    "id": "ProntoQA_37",
+    "question": "Is the following statement true or false? Wren is sweet.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a wumpus. Wren is a jompus. Wren is a tumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_38",
+    "question": "Is the following statement true or false? Polly is not happy.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a vumpus. Impuses are not happy. Dumpuses are brown. Dumpuses are zumpuses. Zumpuses are numpuses. Polly is a vu",
+    "predicted_answer": "Polly is a vumpus. Impuses are not happy. Dumpuses are brown. Dumpuses are zumpuses. Zumpuses are numpuses. Polly is a vu"
+  },
+  {
+    "id": "ProntoQA_39",
+    "question": "Is the following statement true or false? Stella is not hot.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a wumpus. Yompuses are hot. Jompuses are dumpuses. Stella is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_40",
+    "question": "Is the following statement true or false? Sally is amenable.",
+    "answer": "A",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_41",
+    "question": "Is the following statement true or false? Max is not hot.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a wumpus. Tumpuses are not hot. Impuses are vumpuses. Max is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_42",
+    "question": "Is the following statement true or false? Wren is not orange.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a wumpus ------",
+    "predicted_answer": "Wren is a wumpus ------"
+  },
+  {
+    "id": "ProntoQA_43",
+    "question": "Is the following statement true or false? Polly is angry.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is an induced. Polly is an adjective. Polly is an adjective. The correct answer is: A ------",
+    "predicted_answer": "Polly is an induced. Polly is an adjective. Polly is an adjective. The correct answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_44",
+    "question": "Is the following statement true or false? Rex is not spicy.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a jompus. Yumpuses are floral. Yumpuses are jompuses. Yumpuses are not temperate. Yumpuses",
+    "predicted_answer": "Rex is a jompus. Yumpuses are floral. Yumpuses are jompuses. Yumpuses are not temperate. Yumpuses"
+  },
+  {
+    "id": "ProntoQA_45",
+    "question": "Is the following statement true or false? Fae is wooden.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a dumpus ------",
+    "predicted_answer": "Fae is a dumpus ------"
+  },
+  {
+    "id": "ProntoQA_46",
+    "question": "Is the following statement true or false? Sally is not metallic.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a yumpus. ------",
+    "predicted_answer": "Sally is a yumpus. ------"
+  },
+  {
+    "id": "ProntoQA_47",
+    "question": "Is the following statement true or false? Max is not cold.",
+    "answer": "B",
+    "predicted_reasoning": "Max is an induced ------",
+    "predicted_answer": "Max is an induced ------"
+  },
+  {
+    "id": "ProntoQA_48",
+    "question": "Is the following statement true or false? Sam is not fruity.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a jompus. Sam is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_49",
+    "question": "Is the following statement true or false? Wren is liquid.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a wumpus. Wren is a dumpus. The answer is: B ------",
+    "predicted_answer": "Wren is a wumpus. Wren is a dumpus. The answer is: B ------"
+  },
+  {
+    "id": "ProntoQA_50",
+    "question": "Is the following statement true or false? Fae is not blue.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is not blue. ------",
+    "predicted_answer": "Fae is not blue. ------"
+  },
+  {
+    "id": "ProntoQA_51",
+    "question": "Is the following statement true or false? Max is not cold.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a yumpus. Dumpus are rompuses. Rompuses are wumpuses. Dumpus are wumpuses. Tumpus are yum",
+    "predicted_answer": "Max is a yumpus. Dumpus are rompuses. Rompuses are wumpuses. Dumpus are wumpuses. Tumpus are yum"
+  },
+  {
+    "id": "ProntoQA_52",
+    "question": "Is the following statement true or false? Polly is blue.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a jompus. Polly is blue.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_53",
+    "question": "Is the following statement true or false? Fae is dull.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is an induced ------",
+    "predicted_answer": "Fae is an induced ------"
+  },
+  {
+    "id": "ProntoQA_54",
+    "question": "Is the following statement true or false? Stella is not red.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a wumpus. Every wumpus is a numpus. Numpuses are dumpuses. Stella is a vumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_55",
+    "question": "Is the following statement true or false? Rex is mean.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a dumpus ------",
+    "predicted_answer": "Rex is a dumpus ------"
+  },
+  {
+    "id": "ProntoQA_56",
+    "question": "Is the following statement true or false? Sam is not liquid.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a tumpus. Every tumpus is a jompus. Jompuses are bitter. Jompuses are impuses. Each tumpus is a jom",
+    "predicted_answer": "Sam is a tumpus. Every tumpus is a jompus. Jompuses are bitter. Jompuses are impuses. Each tumpus is a jom"
+  },
+  {
+    "id": "ProntoQA_57",
+    "question": "Is the following statement true or false? Alex is not feisty.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a rompus. Rompuses are luminous. Yumpuses are feisty. So Alex is not feisty.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_58",
+    "question": "Is the following statement true or false? Fae is not fruity.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is a rompus. ------",
+    "predicted_answer": "Fae is a rompus. ------"
+  },
+  {
+    "id": "ProntoQA_59",
+    "question": "Is the following statement true or false? Max is not nervous.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a wumpus. Each rompus is a wumpus. Each tumpus is nervous. So Max is a wumpus. Dumpuses are not nervous. So Max",
+    "predicted_answer": "Max is a wumpus. Each rompus is a wumpus. Each tumpus is nervous. So Max is a wumpus. Dumpuses are not nervous. So Max"
+  },
+  {
+    "id": "ProntoQA_60",
+    "question": "Is the following statement true or false? Sam is mean.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a wumpus. Impuses are numpuses. Every numpus is earthy. Dumpuses are tumpuses. Dumpuses are wumpuses",
+    "predicted_answer": "Sam is a wumpus. Impuses are numpuses. Every numpus is earthy. Dumpuses are tumpuses. Dumpuses are wumpuses"
+  },
+  {
+    "id": "ProntoQA_61",
+    "question": "Is the following statement true or false? Max is not nervous.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a rompus. Every yumpus is not nervous. So Max is not nervous.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_62",
+    "question": "Is the following statement true or false? Wren is not transparent.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a wumpus. Every wumpus is a yumpus. Every yumpus is not transparent.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_63",
+    "question": "Is the following statement true or false? Rex is brown.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is an irritant. Rex is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_64",
+    "question": "Is the following statement true or false? Sam is not temperate.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a tumpus. Impuses are not temperate. So Sam is a tumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_65",
+    "question": "Is the following statement true or false? Max is angry.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a wumpus. Every wumpus is a tumpus. Every wumpus is a tumpus. Every wumpus is not angry. Each wumpus",
+    "predicted_answer": "Max is a wumpus. Every wumpus is a tumpus. Every wumpus is a tumpus. Every wumpus is not angry. Each wumpus"
+  },
+  {
+    "id": "ProntoQA_66",
+    "question": "Is the following statement true or false? Sam is not sweet.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a wumpus. Rompuses are not sweet. So Sam is a wumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_67",
+    "question": "Is the following statement true or false? Sam is orange.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is an owmpus. Sam is an orange. So the answer is: A ------",
+    "predicted_answer": "Sam is an owmpus. Sam is an orange. So the answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_68",
+    "question": "Is the following statement true or false? Wren is spicy.",
+    "answer": "A",
+    "predicted_reasoning": "Every jompus is spicy. Wren is a rompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_69",
+    "question": "Is the following statement true or false? Wren is not cold.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a wumpus ------",
+    "predicted_answer": "Wren is a wumpus ------"
+  },
+  {
+    "id": "ProntoQA_70",
+    "question": "Is the following statement true or false? Rex is not transparent.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is transparent. ------",
+    "predicted_answer": "Rex is transparent. ------"
+  },
+  {
+    "id": "ProntoQA_71",
+    "question": "Is the following statement true or false? Sally is not dull.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is an impus. ------",
+    "predicted_answer": "Sally is an impus. ------"
+  },
+  {
+    "id": "ProntoQA_72",
+    "question": "Is the following statement true or false? Sam is fruity.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a wumpus. Rompuses are not fruity. Sam is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_73",
+    "question": "Is the following statement true or false? Wren is not earthy.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a rompus. Rompuses are bitter. Rompuses are yumpuses. Rompuses are jompuses. Jompuses are not blue. Dump",
+    "predicted_answer": "Wren is a rompus. Rompuses are bitter. Rompuses are yumpuses. Rompuses are jompuses. Jompuses are not blue. Dump"
+  },
+  {
+    "id": "ProntoQA_74",
+    "question": "Is the following statement true or false? Sam is not fruity.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a rompus. YUMPUTS are sour. Every tumpus is a yumpus. Every yumpus is not blue. Yumpuses are rompuse",
+    "predicted_answer": "Sam is a rompus. YUMPUTS are sour. Every tumpus is a yumpus. Every yumpus is not blue. Yumpuses are rompuse"
+  },
+  {
+    "id": "ProntoQA_75",
+    "question": "Is the following statement true or false? Polly is fruity.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a rompus. YUMPUTS are yumpuses. Yumpuses are liquid. Yumpuses are dumpuses. Dumpuses are tumpuses",
+    "predicted_answer": "Polly is a rompus. YUMPUTS are yumpuses. Yumpuses are liquid. Yumpuses are dumpuses. Dumpuses are tumpuses"
+  },
+  {
+    "id": "ProntoQA_76",
+    "question": "Is the following statement true or false? Sally is spicy.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a yumpus. Sally is a rompus. Sally is a wumpus. Sally is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_77",
+    "question": "Is the following statement true or false? Sam is not opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a dumpus. Dumpus are wumpuses. Dumpus are not opaque. So Sam is a dumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_78",
+    "question": "Is the following statement true or false? Fae is small.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a vumpus. YUMPUTS are small. TUUMPUSES are hot. Each tumpus is a numpus. YUMPUTS are small. The correct option is",
+    "predicted_answer": "Fae is a vumpus. YUMPUTS are small. TUUMPUSES are hot. Each tumpus is a numpus. YUMPUTS are small. The correct option is"
+  },
+  {
+    "id": "ProntoQA_79",
+    "question": "Is the following statement true or false? Stella is blue.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is an owl. Yumpuses are blue. Tumpuses are jompuses. Each jompus is nervous. Jompuses are zumpuses. Stella is",
+    "predicted_answer": "Stella is an owl. Yumpuses are blue. Tumpuses are jompuses. Each jompus is nervous. Jompuses are zumpuses. Stella is"
+  },
+  {
+    "id": "ProntoQA_80",
+    "question": "Is the following statement true or false? Sally is blue.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a numpus. Sally is blue. ------",
+    "predicted_answer": "Sally is a numpus. Sally is blue. ------"
+  },
+  {
+    "id": "ProntoQA_81",
+    "question": "Is the following statement true or false? Sam is dull.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a dumpus. Dumpuses are not dull. So Sam is a dumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_82",
+    "question": "Is the following statement true or false? Rex is not happy.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a yumpus. Rex is a yumpus. The answer is: A ------",
+    "predicted_answer": "Rex is a yumpus. Rex is a yumpus. The answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_83",
+    "question": "Is the following statement true or false? Wren is transparent.",
+    "answer": "B",
+    "predicted_reasoning": "Wrens are transparent. ------",
+    "predicted_answer": "Wrens are transparent. ------"
+  },
+  {
+    "id": "ProntoQA_84",
+    "question": "Is the following statement true or false? Rex is not opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a jompus. ------",
+    "predicted_answer": "Rex is a jompus. ------"
+  },
+  {
+    "id": "ProntoQA_85",
+    "question": "Is the following statement true or false? Sam is not transparent.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is not transparent. ------",
+    "predicted_answer": "Sam is not transparent. ------"
+  },
+  {
+    "id": "ProntoQA_86",
+    "question": "Is the following statement true or false? Stella is not shy.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is an impus. Rompuses are not shy. Dumpuses are not shy. Stella is an impus. ------",
+    "predicted_answer": "Stella is an impus. Rompuses are not shy. Dumpuses are not shy. Stella is an impus. ------"
+  },
+  {
+    "id": "ProntoQA_87",
+    "question": "Is the following statement true or false? Alex is not sour.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a yumpus. Numpuses are not fruity. Numpuses are dumpuses. Each dumpus is not orange. Dumpuses are yumpuses. Yumpuse",
+    "predicted_answer": "Alex is a yumpus. Numpuses are not fruity. Numpuses are dumpuses. Each dumpus is not orange. Dumpuses are yumpuses. Yumpuse"
+  },
+  {
+    "id": "ProntoQA_88",
+    "question": "Is the following statement true or false? Wren is liquid.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a tumpus. YUMPUPS are liquid.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_89",
+    "question": "Is the following statement true or false? Max is not brown.",
+    "answer": "B",
+    "predicted_reasoning": "The rompus is not brown. The tumpus is a tumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_90",
+    "question": "Is the following statement true or false? Max is metallic.",
+    "answer": "B",
+    "predicted_reasoning": "No wumpus is a tumpus. No numpus is a jompus. So Max is a vumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_91",
+    "question": "Is the following statement true or false? Wren is not small.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a tumpus. ------",
+    "predicted_answer": "Wren is a tumpus. ------"
+  },
+  {
+    "id": "ProntoQA_92",
+    "question": "Is the following statement true or false? Sally is metallic.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a wumpus. Sally is metallic.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_93",
+    "question": "Is the following statement true or false? Polly is not luminous.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a numpus. Yumpuses are feisty. Yumpuses are luminous. Yumpuses are jompuses. Yumpus",
+    "predicted_answer": "Polly is a numpus. Yumpuses are feisty. Yumpuses are luminous. Yumpuses are jompuses. Yumpus"
+  },
+  {
+    "id": "ProntoQA_94",
+    "question": "Is the following statement true or false? Max is angry.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a dumpus. Each wumpus is earthy. Each wumpus is a zumpus. Zumpuses are angry. So Max is a dumpus. Dumppuses are",
+    "predicted_answer": "Max is a dumpus. Each wumpus is earthy. Each wumpus is a zumpus. Zumpuses are angry. So Max is a dumpus. Dumppuses are"
+  },
+  {
+    "id": "ProntoQA_95",
+    "question": "Is the following statement true or false? Stella is feisty.",
+    "answer": "B",
+    "predicted_reasoning": "False ------",
+    "predicted_answer": "False ------"
+  },
+  {
+    "id": "ProntoQA_96",
+    "question": "Is the following statement true or false? Fae is bright.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is a tumpus. Fae is a rompus. Fae is a dumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_97",
+    "question": "Is the following statement true or false? Polly is not dull.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a rompus. YUMPUTS are not transparent. Every rompus is a rompus. Every rompus is a zumpus. Every zumpus is sweet. Every zumpus is",
+    "predicted_answer": "Polly is a rompus. YUMPUTS are not transparent. Every rompus is a rompus. Every rompus is a zumpus. Every zumpus is sweet. Every zumpus is"
+  },
+  {
+    "id": "ProntoQA_98",
+    "question": "Is the following statement true or false? Rex is not angry.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a yumpus. Rex is a rompus. Rex is a tumpus. Rex is a jompus. Rex is a tumpus.",
+    "predicted_answer": "Rex is a yumpus. Rex is a rompus. Rex is a tumpus. Rex is a jompus. Rex is a tumpus."
+  },
+  {
+    "id": "ProntoQA_99",
+    "question": "Is the following statement true or false? Sam is not earthy.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a yumpus. Every tumpus is not kind. Every tumpus is a zumpus. Every zumpus is a vumpus. Vumpuses are not earthy.",
+    "predicted_answer": "Sam is a yumpus. Every tumpus is not kind. Every tumpus is a zumpus. Every zumpus is a vumpus. Vumpuses are not earthy."
+  },
+  {
+    "id": "ProntoQA_100",
+    "question": "Is the following statement true or false? Alex is blue.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a jompus. Every jompus is not blue. So Alex is blue.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_101",
+    "question": "Is the following statement true or false? Sam is not shy.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a zumpus. Rompuses are large. Rompuses are wumpuses. Yumpuses are fruity. Yumpuses are tumpuses",
+    "predicted_answer": "Sam is a zumpus. Rompuses are large. Rompuses are wumpuses. Yumpuses are fruity. Yumpuses are tumpuses"
+  },
+  {
+    "id": "ProntoQA_102",
+    "question": "Is the following statement true or false? Rex is not spicy.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a wumpus. Tumpuses are not spicy. So Rex is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_103",
+    "question": "Is the following statement true or false? Sally is small.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a rompus. Sally is not small. So Sally is not small.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_104",
+    "question": "Is the following statement true or false? Stella is red.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a yumpus. Yumpuses are not temperate. Yumpuses are jompuses. Jompuses are floral. Every jompus is a wumpus",
+    "predicted_answer": "Stella is a yumpus. Yumpuses are not temperate. Yumpuses are jompuses. Jompuses are floral. Every jompus is a wumpus"
+  },
+  {
+    "id": "ProntoQA_105",
+    "question": "Is the following statement true or false? Alex is not brown.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a yumpus. Tumpuses are not brown. So Alex is a yumpus. So the answer is: A ------",
+    "predicted_answer": "Alex is a yumpus. Tumpuses are not brown. So Alex is a yumpus. So the answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_106",
+    "question": "Is the following statement true or false? Max is angry.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a yumpus. Rompuses are not dull. Rompuses are wumpuses. Dumpus are hot. Dumpus is a vumpus. Vumpuse",
+    "predicted_answer": "Max is a yumpus. Rompuses are not dull. Rompuses are wumpuses. Dumpus are hot. Dumpus is a vumpus. Vumpuse"
+  },
+  {
+    "id": "ProntoQA_107",
+    "question": "Is the following statement true or false? Sally is not bitter.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a yumpus. Sally is a yumpus. So Sally is not bitter.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_108",
+    "question": "Is the following statement true or false? Wren is not hot.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a yumpus. Wren is not hot.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_109",
+    "question": "Is the following statement true or false? Sally is large.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a wumpus. Sally is a wumpus. The answer: A ------",
+    "predicted_answer": "Sally is a wumpus. Sally is a wumpus. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_110",
+    "question": "Is the following statement true or false? Sally is not opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a rompus. Sally is a yumpus. Sally is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_111",
+    "question": "Is the following statement true or false? Sally is amenable.",
+    "answer": "B",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_112",
+    "question": "Is the following statement true or false? Max is not brown.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a yumpus. Each rompus is not large. Every rompus is a numpus. Every numpus is fruity. Numpuses are wumpuses. Wu",
+    "predicted_answer": "Max is a yumpus. Each rompus is not large. Every rompus is a numpus. Every numpus is fruity. Numpuses are wumpuses. Wu"
+  },
+  {
+    "id": "ProntoQA_113",
+    "question": "Is the following statement true or false? Rex is not wooden.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a rompus. Rex is a jompus. Rex is a jompus. So Rex is a rompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_114",
+    "question": "Is the following statement true or false? Polly is sweet.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a tumpus. Dumpus is not sweet. Polly is a tumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_115",
+    "question": "Is the following statement true or false? Alex is wooden.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a dumpus. Dumpus are not wooden. So Alex is a dumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_116",
+    "question": "Is the following statement true or false? Sally is not hot.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is an induced ------",
+    "predicted_answer": "Sally is an induced ------"
+  },
+  {
+    "id": "ProntoQA_117",
+    "question": "Is the following statement true or false? Alex is angry.",
+    "answer": "A",
+    "predicted_reasoning": "The sentence is false because there is no evidence that Alex is angry. The answer is: B ------",
+    "predicted_answer": "The sentence is false because there is no evidence that Alex is angry. The answer is: B ------"
+  },
+  {
+    "id": "ProntoQA_118",
+    "question": "Is the following statement true or false? Sam is not sweet.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is an inducement. Sam is a wumpus. The answer is: A ------",
+    "predicted_answer": "Sam is an inducement. Sam is a wumpus. The answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_119",
+    "question": "Is the following statement true or false? Max is shy.",
+    "answer": "B",
+    "predicted_reasoning": "Max is an yumpus. Each yumpus is a dumpus. So Max is a wumpus. Dumpus are numpuses. Max is an impus. ------",
+    "predicted_answer": "Max is an yumpus. Each yumpus is a dumpus. So Max is a wumpus. Dumpus are numpuses. Max is an impus. ------"
+  },
+  {
+    "id": "ProntoQA_120",
+    "question": "Is the following statement true or false? Stella is not fruity.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a zumpus. Tumpuses are fruity. So Stella is a zumpus. Tumpuses are numpuses. Every numpus is red. Numpuses are jo",
+    "predicted_answer": "Stella is a zumpus. Tumpuses are fruity. So Stella is a zumpus. Tumpuses are numpuses. Every numpus is red. Numpuses are jo"
+  },
+  {
+    "id": "ProntoQA_121",
+    "question": "Is the following statement true or false? Max is not mean.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a dumpus. Each rompus is a yumpus. Each yumpus is floral. Yumpuses are impuses. Impuses are not mean. So Max is a dump",
+    "predicted_answer": "Max is a dumpus. Each rompus is a yumpus. Each yumpus is floral. Yumpuses are impuses. Impuses are not mean. So Max is a dump"
+  },
+  {
+    "id": "ProntoQA_122",
+    "question": "Is the following statement true or false? Fae is transparent.",
+    "answer": "B",
+    "predicted_reasoning": "False ------",
+    "predicted_answer": "False ------"
+  },
+  {
+    "id": "ProntoQA_123",
+    "question": "Is the following statement true or false? Polly is aggressive.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a numpus. YUMPUTS are yumpuses. YUMPUTS are blue. YUMPUTS are impuses. YUMPUTS are a",
+    "predicted_answer": "Polly is a numpus. YUMPUTS are yumpuses. YUMPUTS are blue. YUMPUTS are impuses. YUMPUTS are a"
+  },
+  {
+    "id": "ProntoQA_124",
+    "question": "Is the following statement true or false? Sam is not cold.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a yumpus. Every tumpus is not cold. So Sam is a yumpus. So the answer is: A ------",
+    "predicted_answer": "Sam is a yumpus. Every tumpus is not cold. So Sam is a yumpus. So the answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_125",
+    "question": "Is the following statement true or false? Sally is not feisty.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a yumpus. Every yumpus is a rompus. Every rompus is small. Every yumpus is a rompus. Each rompus is small. Every",
+    "predicted_answer": "Sally is a yumpus. Every yumpus is a rompus. Every rompus is small. Every yumpus is a rompus. Each rompus is small. Every"
+  },
+  {
+    "id": "ProntoQA_126",
+    "question": "Is the following statement true or false? Stella is not floral.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a yumpus. Yumpuses are small. Yumpuses are wumpuses. Each wumpus is sour. Wumpuses are jompuses",
+    "predicted_answer": "Stella is a yumpus. Yumpuses are small. Yumpuses are wumpuses. Each wumpus is sour. Wumpuses are jompuses"
+  },
+  {
+    "id": "ProntoQA_127",
+    "question": "Is the following statement true or false? Max is nervous.",
+    "answer": "B",
+    "predicted_reasoning": "Rompuses are not luminous. Every numpus is a dumpus. Dumpuses are tumpuses. Tumpuses are not opaque. Every wumpus is orange. Every",
+    "predicted_answer": "Rompuses are not luminous. Every numpus is a dumpus. Dumpuses are tumpuses. Tumpuses are not opaque. Every wumpus is orange. Every"
+  },
+  {
+    "id": "ProntoQA_128",
+    "question": "Is the following statement true or false? Sam is temperate.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a yumpus. Tumpuses are not temperate. Rompuses are numpuses. Sam is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_129",
+    "question": "Is the following statement true or false? Wren is not sweet.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a numpus. Wren is a jompus. Wren is not sweet.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_130",
+    "question": "Is the following statement true or false? Polly is not opaque.",
+    "answer": "A",
+    "predicted_reasoning": "Dumpuses are opaque. Each numpus is bitter. Each wumpus is yumpuses. Each wumpus is a tumpus. Each tumpus is not opaque.",
+    "predicted_answer": "Dumpuses are opaque. Each numpus is bitter. Each wumpus is yumpuses. Each wumpus is a tumpus. Each tumpus is not opaque."
+  },
+  {
+    "id": "ProntoQA_131",
+    "question": "Is the following statement true or false? Polly is dull.",
+    "answer": "A",
+    "predicted_reasoning": "The sentence is true because there is proof that it is true. There is proof that it is false because there is proof that it is false.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_132",
+    "question": "Is the following statement true or false? Polly is not blue.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a vumpus. YUMPUSHES are rompuses. YUMPUSHES are wumpuses. YUMPUSHES are rompuses.",
+    "predicted_answer": "Polly is a vumpus. YUMPUSHES are rompuses. YUMPUSHES are wumpuses. YUMPUSHES are rompuses."
+  },
+  {
+    "id": "ProntoQA_133",
+    "question": "Is the following statement true or false? Wren is not bitter.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a yumpus. Wren is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_134",
+    "question": "Is the following statement true or false? Stella is temperate.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is an impus. Yumpuses are mean. Yumpuses are a dumpus. Stella is an owmpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_135",
+    "question": "Is the following statement true or false? Alex is not blue.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is an impus. ------",
+    "predicted_answer": "Alex is an impus. ------"
+  },
+  {
+    "id": "ProntoQA_136",
+    "question": "Is the following statement true or false? Sally is not sour.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a zumpus. Sally is a wumpus. Sally is a sour.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_137",
+    "question": "Is the following statement true or false? Rex is not liquid.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a rompus. Rex is not liquid.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_138",
+    "question": "Is the following statement true or false? Sally is red.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a yumpus. Sally is a yumpus. The answer: A ------",
+    "predicted_answer": "Sally is a yumpus. Sally is a yumpus. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_139",
+    "question": "Is the following statement true or false? Sam is not small.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a dumpus. Rompuses are small. Rompuses are jompuses. Sam is a dumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_140",
+    "question": "Is the following statement true or false? Stella is sour.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a dumpus. Impuses are sour. So Stella is a dumpus. Dumpuses are not sour. So Stella is a dumpus. The correct option is",
+    "predicted_answer": "Stella is a dumpus. Impuses are sour. So Stella is a dumpus. Dumpuses are not sour. So Stella is a dumpus. The correct option is"
+  },
+  {
+    "id": "ProntoQA_141",
+    "question": "Is the following statement true or false? Alex is bright.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a jompus. Yumpuses are red. Yumpuses are yumpuses. Yumpuses are transparent. So Alex is a jom",
+    "predicted_answer": "Alex is a jompus. Yumpuses are red. Yumpuses are yumpuses. Yumpuses are transparent. So Alex is a jom"
+  },
+  {
+    "id": "ProntoQA_142",
+    "question": "Is the following statement true or false? Stella is opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is opaque because it is opaque. The answer: B ------",
+    "predicted_answer": "Stella is opaque because it is opaque. The answer: B ------"
+  },
+  {
+    "id": "ProntoQA_143",
+    "question": "Is the following statement true or false? Max is transparent.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a wumpus. Yummy is transparent. Yummy is not transparent.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_144",
+    "question": "Is the following statement true or false? Wren is not large.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a jompus. ------",
+    "predicted_answer": "Wren is a jompus. ------"
+  },
+  {
+    "id": "ProntoQA_145",
+    "question": "Is the following statement true or false? Stella is luminous.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a yumpus. Every wumpus is a numpus. Every numpus is large. Every wumpus is a yumpus. Every yumpus is not",
+    "predicted_answer": "Stella is a yumpus. Every wumpus is a numpus. Every numpus is large. Every wumpus is a yumpus. Every yumpus is not"
+  },
+  {
+    "id": "ProntoQA_146",
+    "question": "Is the following statement true or false? Fae is not bright.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is a rompus. YUMPUTS are a rompus. YUMPUTS are not bright.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_147",
+    "question": "Is the following statement true or false? Polly is not kind.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a wumpus. Every wumpus is opaque. Every rompus is a wumpus. Every wumpus is a rompus. Every yumpus is not",
+    "predicted_answer": "Polly is a wumpus. Every wumpus is opaque. Every rompus is a wumpus. Every wumpus is a rompus. Every yumpus is not"
+  },
+  {
+    "id": "ProntoQA_148",
+    "question": "Is the following statement true or false? Fae is not dull.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a yumpus. ------",
+    "predicted_answer": "Fae is a yumpus. ------"
+  },
+  {
+    "id": "ProntoQA_149",
+    "question": "Is the following statement true or false? Stella is transparent.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a yumpus. Dumpuses are not transparent. So Stella is a yumpus. So Stella is a rompus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_150",
+    "question": "Is the following statement true or false? Alex is small.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a jompus. Dumpuss are small. So Alex is a jompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_151",
+    "question": "Is the following statement true or false? Sally is shy.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a zumpus. Dumpuss are numpuses. Dumpuss are yumpuses. Dumpuss are jompuses. Dumpuss are jomp",
+    "predicted_answer": "Sally is a zumpus. Dumpuss are numpuses. Dumpuss are yumpuses. Dumpuss are jompuses. Dumpuss are jomp"
+  },
+  {
+    "id": "ProntoQA_152",
+    "question": "Is the following statement true or false? Wren is transparent.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a yumpus. Wren is transparent.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_153",
+    "question": "Is the following statement true or false? Sally is not dull.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a jompus. YUMPUTS are dull. YUMPUTES are luminous. YUMPUTES are not dull. So Sally is not dull.",
+    "predicted_answer": "A"
+  },
+  {
+    "id": "ProntoQA_154",
+    "question": "Is the following statement true or false? Sam is not brown.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a yumpus. Every yumpus is a jompus. Each jompus is kind. Each jompus is a zumpus. Each zumpus is sweet. Every",
+    "predicted_answer": "Sam is a yumpus. Every yumpus is a jompus. Each jompus is kind. Each jompus is a zumpus. Each zumpus is sweet. Every"
+  },
+  {
+    "id": "ProntoQA_155",
+    "question": "Is the following statement true or false? Sam is not large.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a rompus. Rompuses are brown. Rompuses are wumpuses. Rompuses are yumpuses. Rompuses are wumpuse",
+    "predicted_answer": "Sam is a rompus. Rompuses are brown. Rompuses are wumpuses. Rompuses are yumpuses. Rompuses are wumpuse"
+  },
+  {
+    "id": "ProntoQA_156",
+    "question": "Is the following statement true or false? Wren is not small.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a yumpus. Wren is a tumpus. The answer: A ------",
+    "predicted_answer": "Wren is a yumpus. Wren is a tumpus. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_157",
+    "question": "Is the following statement true or false? Polly is not happy.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a yumpus. Each jompus is not happy. Every yumpus is sweet. Yumpuses are wumpuses. Every wumpus is not red. Wu",
+    "predicted_answer": "Polly is a yumpus. Each jompus is not happy. Every yumpus is sweet. Yumpuses are wumpuses. Every wumpus is not red. Wu"
+  },
+  {
+    "id": "ProntoQA_158",
+    "question": "Is the following statement true or false? Sam is not spicy.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a dumpus. Dumpuses are not earthy. Dumpuses are wumpuses. Dumpuses are not earthy. Dumpuses are hot. Sam",
+    "predicted_answer": "Sam is a dumpus. Dumpuses are not earthy. Dumpuses are wumpuses. Dumpuses are not earthy. Dumpuses are hot. Sam"
+  },
+  {
+    "id": "ProntoQA_159",
+    "question": "Is the following statement true or false? Alex is not earthy.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a dumpus. Dumpus are not earthy. So Alex is a dumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_160",
+    "question": "Is the following statement true or false? Wren is not nervous.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a yumpus. Wren is a jompus. The answer: A ------",
+    "predicted_answer": "Wren is a yumpus. Wren is a jompus. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_161",
+    "question": "Is the following statement true or false? Max is red.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a dumpus. Each wumpus is opaque. Yumpuses are not red. So Max is a dumpus. Dumpuses are not cold. Dumpuses are bright. Dumpuse",
+    "predicted_answer": "Max is a dumpus. Each wumpus is opaque. Yumpuses are not red. So Max is a dumpus. Dumpuses are not cold. Dumpuses are bright. Dumpuse"
+  },
+  {
+    "id": "ProntoQA_162",
+    "question": "Is the following statement true or false? Wren is not mean.",
+    "answer": "B",
+    "predicted_reasoning": "Wrens are a wumpus. ------",
+    "predicted_answer": "Wrens are a wumpus. ------"
+  },
+  {
+    "id": "ProntoQA_163",
+    "question": "Is the following statement true or false? Stella is metallic.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is an impus. Tumpuses are wumpuses. Dumpuses are tumpuses. Wumpuses are amenable. Tumpuses are tumpuse",
+    "predicted_answer": "Stella is an impus. Tumpuses are wumpuses. Dumpuses are tumpuses. Wumpuses are amenable. Tumpuses are tumpuse"
+  },
+  {
+    "id": "ProntoQA_164",
+    "question": "Is the following statement true or false? Stella is not sweet.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a rompus. Dumpus are metallic. Every dumpus is a rompus. Every rompus is earthy. Every rompus is a wumpus. Every wum",
+    "predicted_answer": "Stella is a rompus. Dumpus are metallic. Every dumpus is a rompus. Every rompus is earthy. Every rompus is a wumpus. Every wum"
+  },
+  {
+    "id": "ProntoQA_165",
+    "question": "Is the following statement true or false? Fae is not feisty.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a numpus. Yumpuses are not feisty.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_166",
+    "question": "Is the following statement true or false? Polly is not sour.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a yumpus. Yumpuses are vumpuses. Each vumpus is not floral. Each vumpus is a rompus. Polly is a zumpus.",
+    "predicted_answer": "Polly is a yumpus. Yumpuses are vumpuses. Each vumpus is not floral. Each vumpus is a rompus. Polly is a zumpus."
+  },
+  {
+    "id": "ProntoQA_167",
+    "question": "Is the following statement true or false? Stella is not bright.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a wumpus. Yompuses are small. Yompuses are yumpuses. Yompuses are numpuses. Yompuses are",
+    "predicted_answer": "Stella is a wumpus. Yompuses are small. Yompuses are yumpuses. Yompuses are numpuses. Yompuses are"
+  },
+  {
+    "id": "ProntoQA_168",
+    "question": "Is the following statement true or false? Wren is floral.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a wumpus. Wren is a wumpus. The answer: B ------",
+    "predicted_answer": "Wren is a wumpus. Wren is a wumpus. The answer: B ------"
+  },
+  {
+    "id": "ProntoQA_169",
+    "question": "Is the following statement true or false? Sam is fruity.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a dumpus. Dumpuses are opaque. Dumpuses are fruity. So Sam is a dumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_170",
+    "question": "Is the following statement true or false? Max is not brown.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a tumpus. Rompuses are not brown. Wumpuses are numpuses. Max is a tumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_171",
+    "question": "Is the following statement true or false? Polly is not metallic.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a yumpus. Each yumpus is an impus. Impuses are aggressive. Impuses are wumpuses. Wumpuses are opaque. Every wumpus is",
+    "predicted_answer": "Polly is a yumpus. Each yumpus is an impus. Impuses are aggressive. Impuses are wumpuses. Wumpuses are opaque. Every wumpus is"
+  },
+  {
+    "id": "ProntoQA_172",
+    "question": "Is the following statement true or false? Rex is not opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a zumpus. ------",
+    "predicted_answer": "Rex is a zumpus. ------"
+  },
+  {
+    "id": "ProntoQA_173",
+    "question": "Is the following statement true or false? Sally is not cold.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a tumpus. Every tumpus is a jompus. Every jompus is a wumpus. Every wumpus is a numpus. S",
+    "predicted_answer": "Sally is a tumpus. Every tumpus is a jompus. Every jompus is a wumpus. Every wumpus is a numpus. S"
+  },
+  {
+    "id": "ProntoQA_174",
+    "question": "Is the following statement true or false? Polly is kind.",
+    "answer": "B",
+    "predicted_reasoning": "The sentence is false because it is not true. Polly is a dumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_175",
+    "question": "Is the following statement true or false? Stella is nervous.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a tumpus. Each tumpus is nervous. So Stella is a tumpus. Each tumpus is not large. Yumpuses are dumpuses. Each dump",
+    "predicted_answer": "Stella is a tumpus. Each tumpus is nervous. So Stella is a tumpus. Each tumpus is not large. Yumpuses are dumpuses. Each dump"
+  },
+  {
+    "id": "ProntoQA_176",
+    "question": "Is the following statement true or false? Sally is not spicy.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a tumpus. Sally is a wumpus. Sally is a tumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_177",
+    "question": "Is the following statement true or false? Rex is bright.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is an impus. ------",
+    "predicted_answer": "Rex is an impus. ------"
+  },
+  {
+    "id": "ProntoQA_178",
+    "question": "Is the following statement true or false? Polly is metallic.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a tumpus. YUMPUTS are not metallic.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_179",
+    "question": "Is the following statement true or false? Wren is not opaque.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a rompus. Wren is opaque.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_180",
+    "question": "Is the following statement true or false? Max is not luminous.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a jompus. Impuses are not floral. Every impus is a jompus. Jompuses are sweet. Jompuses are numpuses. Numpuses are",
+    "predicted_answer": "Max is a jompus. Impuses are not floral. Every impus is a jompus. Jompuses are sweet. Jompuses are numpuses. Numpuses are"
+  },
+  {
+    "id": "ProntoQA_181",
+    "question": "Is the following statement true or false? Rex is not kind.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a rompus. Rex is not kind.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_182",
+    "question": "Is the following statement true or false? Sam is large.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a numpus. Each yumpus is large. So the answer is: A ------",
+    "predicted_answer": "Sam is a numpus. Each yumpus is large. So the answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_183",
+    "question": "Is the following statement true or false? Fae is opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Wumpuses are opaque. Dumpuses are rompuses. Rompuses are brown. Rompuses are zumpuses. The answer: B ------",
+    "predicted_answer": "Wumpuses are opaque. Dumpuses are rompuses. Rompuses are brown. Rompuses are zumpuses. The answer: B ------"
+  },
+  {
+    "id": "ProntoQA_184",
+    "question": "Is the following statement true or false? Sam is not angry.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a vumpus. YUMPUSHES are not angry. TUUMPUSES are tumpuses. Tumpuses are rompuses. Sam is a vumpus",
+    "predicted_answer": "Sam is a vumpus. YUMPUSHES are not angry. TUUMPUSES are tumpuses. Tumpuses are rompuses. Sam is a vumpus"
+  },
+  {
+    "id": "ProntoQA_185",
+    "question": "Is the following statement true or false? Polly is not happy.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a tumpus. Tumpuses are happy. Tumpuses are rompuses. Tumpuses are brown. Tumpuses are numpuses. Numpuses",
+    "predicted_answer": "Polly is a tumpus. Tumpuses are happy. Tumpuses are rompuses. Tumpuses are brown. Tumpuses are numpuses. Numpuses"
+  },
+  {
+    "id": "ProntoQA_186",
+    "question": "Is the following statement true or false? Sally is fruity.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a wumpus. Yumpuses are not fruity. So Sally is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_187",
+    "question": "Is the following statement true or false? Sam is bitter.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a rompus. Rompuses are tumpuses. Dumppuss are not bitter. Sam is a rompus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_188",
+    "question": "Is the following statement true or false? Stella is not cold.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is an impus. Each yumpus is not cold. So Stella is an impus. So Stella is not cold.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_189",
+    "question": "Is the following statement true or false? Wren is dull.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is an inducement. Wren is a wumpuses. The answer is: B ------",
+    "predicted_answer": "Wren is an inducement. Wren is a wumpuses. The answer is: B ------"
+  },
+  {
+    "id": "ProntoQA_190",
+    "question": "Is the following statement true or false? Max is nervous.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a yumpus. Each yumpus is a dumpus. So Max is dumpus. Dumpus are not small. Every dumpus is a tumpus. Tumpus are wooden",
+    "predicted_answer": "Max is a yumpus. Each yumpus is a dumpus. So Max is dumpus. Dumpus are not small. Every dumpus is a tumpus. Tumpus are wooden"
+  },
+  {
+    "id": "ProntoQA_191",
+    "question": "Is the following statement true or false? Fae is happy.",
+    "answer": "B",
+    "predicted_reasoning": "False ------",
+    "predicted_answer": "False ------"
+  },
+  {
+    "id": "ProntoQA_192",
+    "question": "Is the following statement true or false? Sam is not dull.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a yumpus. Yumpuses are zumpuses. Sam is a jompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_193",
+    "question": "Is the following statement true or false? Wren is not red.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is not red. ------",
+    "predicted_answer": "Wren is not red. ------"
+  },
+  {
+    "id": "ProntoQA_194",
+    "question": "Is the following statement true or false? Max is not earthy.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a rompus. Each rompus is a zumpus. Every rompus is a yumpus. Each jompus is a yumpus. Yumpuses are spicy",
+    "predicted_answer": "Max is a rompus. Each rompus is a zumpus. Every rompus is a yumpus. Each jompus is a yumpus. Yumpuses are spicy"
+  },
+  {
+    "id": "ProntoQA_195",
+    "question": "Is the following statement true or false? Fae is not spicy.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is a numpus. YUMPUTS are not spicy. YUMPUTS are wumpuses. YUMPUTS are not fruity. YUMPUTS are not fruit",
+    "predicted_answer": "Fae is a numpus. YUMPUTS are not spicy. YUMPUTS are wumpuses. YUMPUTS are not fruity. YUMPUTS are not fruit"
+  },
+  {
+    "id": "ProntoQA_196",
+    "question": "Is the following statement true or false? Fae is not feisty.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is a wumpus. Yumpuses are not hot. Vumpuses are zumpuses. Each zumpus is opaque. So, a tumpus is a",
+    "predicted_answer": "Fae is a wumpus. Yumpuses are not hot. Vumpuses are zumpuses. Each zumpus is opaque. So, a tumpus is a"
+  },
+  {
+    "id": "ProntoQA_197",
+    "question": "Is the following statement true or false? Alex is kind.",
+    "answer": "B",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_198",
+    "question": "Is the following statement true or false? Wren is small.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a jompus. Wren is a jompus. The answer: A ------",
+    "predicted_answer": "Wren is a jompus. Wren is a jompus. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_199",
+    "question": "Is the following statement true or false? Alex is opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Tumpuses are opaque. Alex is a rompus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_200",
+    "question": "Is the following statement true or false? Rex is not transparent.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is transparent. Rex is a rompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_201",
+    "question": "Is the following statement true or false? Sally is not wooden.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is an owl. YUMPUPS are yumpuses. YUMPUPS are happy. YUMPUPS are rompuses. YUMPUPS are y",
+    "predicted_answer": "Sally is an owl. YUMPUPS are yumpuses. YUMPUPS are happy. YUMPUPS are rompuses. YUMPUPS are y"
+  },
+  {
+    "id": "ProntoQA_202",
+    "question": "Is the following statement true or false? Wren is opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is opaque because it is transparent. ------",
+    "predicted_answer": "Wren is opaque because it is transparent. ------"
+  },
+  {
+    "id": "ProntoQA_203",
+    "question": "Is the following statement true or false? Alex is shy.",
+    "answer": "A",
+    "predicted_reasoning": "The rompus is a tumpus. The rompus is a tumpus. The answer is: B ------",
+    "predicted_answer": "The rompus is a tumpus. The rompus is a tumpus. The answer is: B ------"
+  },
+  {
+    "id": "ProntoQA_204",
+    "question": "Is the following statement true or false? Sam is not feisty.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a jompus. Rompuses are tumpuses. Sam is a jompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_205",
+    "question": "Is the following statement true or false? Stella is fruity.",
+    "answer": "B",
+    "predicted_reasoning": "Fruity is not fruity. Yumpuses are not fruity. So Stella is a rompus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_206",
+    "question": "Is the following statement true or false? Polly is fruity.",
+    "answer": "A",
+    "predicted_reasoning": "Fruity is a fruity word. YUMPUSes are fruity. Dumpuses are not fruity.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_207",
+    "question": "Is the following statement true or false? Sally is not floral.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a numpus. ------",
+    "predicted_answer": "Sally is a numpus. ------"
+  },
+  {
+    "id": "ProntoQA_208",
+    "question": "Is the following statement true or false? Max is not orange.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a rompus. Impuses are not fruity. Impuses are vumpuses. Impuses are not orange. Dumpuses are rompuses. Dumpuses are",
+    "predicted_answer": "Max is a rompus. Impuses are not fruity. Impuses are vumpuses. Impuses are not orange. Dumpuses are rompuses. Dumpuses are"
+  },
+  {
+    "id": "ProntoQA_209",
+    "question": "Is the following statement true or false? Polly is earthy.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a dumpus. Dumpus are not transparent. Dumpus are yumpuses. Dumpus are not metallic. Dumpus are not metallic. Polly is a dumpus. The",
+    "predicted_answer": "Polly is a dumpus. Dumpus are not transparent. Dumpus are yumpuses. Dumpus are not metallic. Dumpus are not metallic. Polly is a dumpus. The"
+  },
+  {
+    "id": "ProntoQA_210",
+    "question": "Is the following statement true or false? Fae is not hot.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is a yumpus. Yumpuses are not hot. So the answer is: A ------",
+    "predicted_answer": "Fae is a yumpus. Yumpuses are not hot. So the answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_211",
+    "question": "Is the following statement true or false? Alex is not earthy.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a rompus. YUMPUTS are wumpuses. YUMPUTS are tumpuses. YUMPUTS are wumpuses. Y",
+    "predicted_answer": "Alex is a rompus. YUMPUTS are wumpuses. YUMPUTS are tumpuses. YUMPUTS are wumpuses. Y"
+  },
+  {
+    "id": "ProntoQA_212",
+    "question": "Is the following statement true or false? Stella is not temperate.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a wumpus. Yumpuses are not temperate. So Stella is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_213",
+    "question": "Is the following statement true or false? Rex is not wooden.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is an owmpus. Yumpuses are not bitter. Yumpuses are hot. Yumpuses are numb. Yumpuses are numb",
+    "predicted_answer": "Rex is an owmpus. Yumpuses are not bitter. Yumpuses are hot. Yumpuses are numb. Yumpuses are numb"
+  },
+  {
+    "id": "ProntoQA_214",
+    "question": "Is the following statement true or false? Sally is nervous.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a vumpus. Sally is not nervous. So Sally is not nervous.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_215",
+    "question": "Is the following statement true or false? Max is not earthy.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a wumpus. Each wumpus is brown. Wumpuses are rompuses. Each rompus is dull. Rompuses are dumpuses. Dumpuses are",
+    "predicted_answer": "Max is a wumpus. Each wumpus is brown. Wumpuses are rompuses. Each rompus is dull. Rompuses are dumpuses. Dumpuses are"
+  },
+  {
+    "id": "ProntoQA_216",
+    "question": "Is the following statement true or false? Max is aggressive.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a wumpus. Impuses are dull. Impuses are rompuses. Dumpuses are nervous. Dumpuses are wumpuses. Wumpuses are",
+    "predicted_answer": "Max is a wumpus. Impuses are dull. Impuses are rompuses. Dumpuses are nervous. Dumpuses are wumpuses. Wumpuses are"
+  },
+  {
+    "id": "ProntoQA_217",
+    "question": "Is the following statement true or false? Sally is not metallic.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a yumpus. Each numpus is a yumpus. So Sally is a yumpus. So Sally is not metallic.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_218",
+    "question": "Is the following statement true or false? Fae is transparent.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is transparent because it is transparent. ------",
+    "predicted_answer": "Fae is transparent because it is transparent. ------"
+  },
+  {
+    "id": "ProntoQA_219",
+    "question": "Is the following statement true or false? Wren is transparent.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a wumpus. ------",
+    "predicted_answer": "Wren is a wumpus. ------"
+  },
+  {
+    "id": "ProntoQA_220",
+    "question": "Is the following statement true or false? Stella is not luminous.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a tumpus. Dumpuses are not luminous. So Stella is a tumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_221",
+    "question": "Is the following statement true or false? Stella is fruity.",
+    "answer": "B",
+    "predicted_reasoning": "Fruity is not fruity. Stella is a zumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_222",
+    "question": "Is the following statement true or false? Stella is not metallic.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a wumpus. Yumpuses are not earthy. Wumpuses are impuses. Dumpuses are small. Dumpuses are jompuses. Jompuse",
+    "predicted_answer": "Stella is a wumpus. Yumpuses are not earthy. Wumpuses are impuses. Dumpuses are small. Dumpuses are jompuses. Jompuse"
+  },
+  {
+    "id": "ProntoQA_223",
+    "question": "Is the following statement true or false? Polly is not luminous.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is an inducement. YUMPUPS are luminous.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_224",
+    "question": "Is the following statement true or false? Sally is cold.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a tumpus. Sally is a rompus. The answer is: B ------",
+    "predicted_answer": "Sally is a tumpus. Sally is a rompus. The answer is: B ------"
+  },
+  {
+    "id": "ProntoQA_225",
+    "question": "Is the following statement true or false? Sam is large.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a tumpus. Every vumpus is large. So Sam is a tumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_226",
+    "question": "Is the following statement true or false? Stella is metallic.",
+    "answer": "B",
+    "predicted_reasoning": "Dumpuses are metallic. Impuses are not shy. Impuses are rompuses. Rompuses are not fruity. Each rompus is a jompus. Jompuses",
+    "predicted_answer": "Dumpuses are metallic. Impuses are not shy. Impuses are rompuses. Rompuses are not fruity. Each rompus is a jompus. Jompuses"
+  },
+  {
+    "id": "ProntoQA_227",
+    "question": "Is the following statement true or false? Sam is not nervous.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a tumpus. Yumpuses are not nervous. Dumpuses are stimulants. Dumpuses are stimulants. Sam is a tumpus. The correct option",
+    "predicted_answer": "Sam is a tumpus. Yumpuses are not nervous. Dumpuses are stimulants. Dumpuses are stimulants. Sam is a tumpus. The correct option"
+  },
+  {
+    "id": "ProntoQA_228",
+    "question": "Is the following statement true or false? Alex is not transparent.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a yumpus. Each rompus is a dumpus. Each yumpus is transparent. So Alex is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_229",
+    "question": "Is the following statement true or false? Alex is not cold.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a wumpus. Tumpuses are not cold. So Alex is not cold.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_230",
+    "question": "Is the following statement true or false? Rex is kind.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a wumpus. Rex is a jompus. Rex is a yumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_231",
+    "question": "Is the following statement true or false? Sam is not dull.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a dumpus. Dumpuses are not large. Dumpuses are yumpuses. Dumpuses are not large. Dumpuses are not rompuse",
+    "predicted_answer": "Sam is a dumpus. Dumpuses are not large. Dumpuses are yumpuses. Dumpuses are not large. Dumpuses are not rompuse"
+  },
+  {
+    "id": "ProntoQA_232",
+    "question": "Is the following statement true or false? Max is not opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a tumpus. Each tumpus is a jompus. Every tumpus is a jompus. Every jompus is temperate. Jompuses are",
+    "predicted_answer": "Max is a tumpus. Each tumpus is a jompus. Every tumpus is a jompus. Every jompus is temperate. Jompuses are"
+  },
+  {
+    "id": "ProntoQA_233",
+    "question": "Is the following statement true or false? Rex is not large.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a wumpus. ------",
+    "predicted_answer": "Rex is a wumpus. ------"
+  },
+  {
+    "id": "ProntoQA_234",
+    "question": "Is the following statement true or false? Stella is not earthy.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is an owl. Every owl is an owl. Every owl is an owl. Every owl is an owl. Stella is an owl. The correct option",
+    "predicted_answer": "Stella is an owl. Every owl is an owl. Every owl is an owl. Every owl is an owl. Stella is an owl. The correct option"
+  },
+  {
+    "id": "ProntoQA_235",
+    "question": "Is the following statement true or false? Stella is not happy.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a tumpus. Yumpuses are dull. Yumpuses are wumpuses. Each wumpus is happy. So Stella is a tumpus. The",
+    "predicted_answer": "Stella is a tumpus. Yumpuses are dull. Yumpuses are wumpuses. Each wumpus is happy. So Stella is a tumpus. The"
+  },
+  {
+    "id": "ProntoQA_236",
+    "question": "Is the following statement true or false? Fae is orange.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a tumpus. YUMPUSHES are orange.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_237",
+    "question": "Is the following statement true or false? Sally is cold.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a tumpus. Sally is a rompus. The answer: A ------",
+    "predicted_answer": "Sally is a tumpus. Sally is a rompus. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_238",
+    "question": "Is the following statement true or false? Polly is small.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a rompus. Rooms are small. Rooms are yumpuses. Rooms are small.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_239",
+    "question": "Is the following statement true or false? Alex is not spicy.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a tumpus. Tumpuses are fruity. Tumpuses are jompuses. Jompuses are not hot. Every impus is not spicy. So Alex is a t",
+    "predicted_answer": "Alex is a tumpus. Tumpuses are fruity. Tumpuses are jompuses. Jompuses are not hot. Every impus is not spicy. So Alex is a t"
+  },
+  {
+    "id": "ProntoQA_240",
+    "question": "Is the following statement true or false? Alex is spicy.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is an impus. Every dumpus is a rompus. The answer is: A ------",
+    "predicted_answer": "Alex is an impus. Every dumpus is a rompus. The answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_241",
+    "question": "Is the following statement true or false? Sally is not orange.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a dumpus. Sally is orange. So Sally is not orange.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_242",
+    "question": "Is the following statement true or false? Wren is not blue.",
+    "answer": "A",
+    "predicted_reasoning": "Rompuses are blue. Dumpuses are blue. Rompuses are a tumpus. Tumpuses are nervous. Tumpuses are jompuses. Jompuses",
+    "predicted_answer": "Rompuses are blue. Dumpuses are blue. Rompuses are a tumpus. Tumpuses are nervous. Tumpuses are jompuses. Jompuses"
+  },
+  {
+    "id": "ProntoQA_243",
+    "question": "Is the following statement true or false? Max is feisty.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a jompus. Tumpuses are feisty. So Max is a jompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_244",
+    "question": "Is the following statement true or false? Wren is not transparent.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a jompus. YUMPUTS are transparent. YUMPUTS are sour. YUMPUTS are yumpuses. YUMPUTS are s",
+    "predicted_answer": "Wren is a jompus. YUMPUTS are transparent. YUMPUTS are sour. YUMPUTS are yumpuses. YUMPUTS are s"
+  },
+  {
+    "id": "ProntoQA_245",
+    "question": "Is the following statement true or false? Rex is large.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a rompus. Rex is a wumpus. Rex is a dumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_246",
+    "question": "Is the following statement true or false? Sam is not red.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a numpus. YUMPUPS are not red. YUMPUPS are wooden. YUMPUPS are jompuses. YUMPUPS are tumpuses",
+    "predicted_answer": "Sam is a numpus. YUMPUPS are not red. YUMPUPS are wooden. YUMPUPS are jompuses. YUMPUPS are tumpuses"
+  },
+  {
+    "id": "ProntoQA_247",
+    "question": "Is the following statement true or false? Sam is brown.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a rompus. Rompuses are not brown. So Sam is a rompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_248",
+    "question": "Is the following statement true or false? Polly is sour.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a wumpus. Polly is a fruity fruit. Vumpuses are fruity. Vumpuses are rompuses. Rompuses are not dull. Each",
+    "predicted_answer": "Polly is a wumpus. Polly is a fruity fruit. Vumpuses are fruity. Vumpuses are rompuses. Rompuses are not dull. Each"
+  },
+  {
+    "id": "ProntoQA_249",
+    "question": "Is the following statement true or false? Stella is small.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a jompus. Tumpuses are small. So Stella is a jompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_250",
+    "question": "Is the following statement true or false? Stella is wooden.",
+    "answer": "A",
+    "predicted_reasoning": "Wooden is not a yumpus. Stella is a yumpus. The answer: B ------",
+    "predicted_answer": "Wooden is not a yumpus. Stella is a yumpus. The answer: B ------"
+  },
+  {
+    "id": "ProntoQA_251",
+    "question": "Is the following statement true or false? Sam is kind.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is an inducement. Sam is not kind.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_252",
+    "question": "Is the following statement true or false? Alex is blue.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a dumpus. Rompuses are blue. So Alex is a dumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_253",
+    "question": "Is the following statement true or false? Fae is not large.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a vumpus. Rompuses are not large. Rompuses are not floral. Rompuses are not floral. Rompuses are not yumpuses. Dumpuse",
+    "predicted_answer": "Fae is a vumpus. Rompuses are not large. Rompuses are not floral. Rompuses are not floral. Rompuses are not yumpuses. Dumpuse"
+  },
+  {
+    "id": "ProntoQA_254",
+    "question": "Is the following statement true or false? Max is bright.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a yumpus. Every tumpus is a numpus. Every numpus is a rompus. Every rompus is bright. Each rompuses are not brown.",
+    "predicted_answer": "Max is a yumpus. Every tumpus is a numpus. Every numpus is a rompus. Every rompus is bright. Each rompuses are not brown."
+  },
+  {
+    "id": "ProntoQA_255",
+    "question": "Is the following statement true or false? Max is not bitter.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a wumpus. Each wumpus is a tumpus. So Max is a wumpus. Tumpuses are numpuses. Numpuses are not fruit",
+    "predicted_answer": "Max is a wumpus. Each wumpus is a tumpus. So Max is a wumpus. Tumpuses are numpuses. Numpuses are not fruit"
+  },
+  {
+    "id": "ProntoQA_256",
+    "question": "Is the following statement true or false? Sam is not small.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a rompus. Rompuses are transparent. Yumpuses are not small.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_257",
+    "question": "Is the following statement true or false? Max is kind.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a tumpus. Every tumpus is a wumpus. Dumpus is a feisty. Impuses are feisty. Numpuses are",
+    "predicted_answer": "Max is a tumpus. Every tumpus is a wumpus. Dumpus is a feisty. Impuses are feisty. Numpuses are"
+  },
+  {
+    "id": "ProntoQA_258",
+    "question": "Is the following statement true or false? Wren is not dull.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a yumpus. Yumpuses are not dull. So Wren is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_259",
+    "question": "Is the following statement true or false? Sally is sweet.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a yumpus. Sally is a fruity yumpus. So Sally is a yumpus. So Sally is a jompus.",
+    "predicted_answer": ""
+  },
+  {
+    "id": "ProntoQA_260",
+    "question": "Is the following statement true or false? Max is not wooden.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a tumpus. Each jompus is a tumpus. Each tumpus is a numpus. Each numpus is a dumpus. Max is a vu",
+    "predicted_answer": "Max is a tumpus. Each jompus is a tumpus. Each tumpus is a numpus. Each numpus is a dumpus. Max is a vu"
+  },
+  {
+    "id": "ProntoQA_261",
+    "question": "Is the following statement true or false? Alex is not fruity.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a tumpus. Every tumpus is a yumpus. Yumpuses are small. Yumpuses are dumpuses. Dumpuses are dull. Every dumpus is",
+    "predicted_answer": "Alex is a tumpus. Every tumpus is a yumpus. Yumpuses are small. Yumpuses are dumpuses. Dumpuses are dull. Every dumpus is"
+  },
+  {
+    "id": "ProntoQA_262",
+    "question": "Is the following statement true or false? Sam is cold.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a tumpus. The answer: A ------",
+    "predicted_answer": "Sam is a tumpus. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_263",
+    "question": "Is the following statement true or false? Sally is floral.",
+    "answer": "B",
+    "predicted_reasoning": "No wumpuses are floral. Sally is a dumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_264",
+    "question": "Is the following statement true or false? Max is not bright.",
+    "answer": "A",
+    "predicted_reasoning": "Max is an impus. Rompuses are not bright. Jompuses are bright. Max is an impus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_265",
+    "question": "Is the following statement true or false? Sally is not fruity.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a wumpus. YUMPUTS are not fruity. YUMPUTS are jompuses. YUMPUTS are yumpuses. The correct option is",
+    "predicted_answer": "Sally is a wumpus. YUMPUTS are not fruity. YUMPUTS are jompuses. YUMPUTS are yumpuses. The correct option is"
+  },
+  {
+    "id": "ProntoQA_266",
+    "question": "Is the following statement true or false? Rex is temperate.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a yumpus. Yumpuses are not temperate. So Rex is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_267",
+    "question": "Is the following statement true or false? Polly is not opaque.",
+    "answer": "B",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_268",
+    "question": "Is the following statement true or false? Alex is not cold.",
+    "answer": "B",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_269",
+    "question": "Is the following statement true or false? Max is opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a yumpus. Impuses are not fruity. Impuses are yumpuses. Each yumpus is opaque. So Max is opaque. Numpuses are rompus",
+    "predicted_answer": "Max is a yumpus. Impuses are not fruity. Impuses are yumpuses. Each yumpus is opaque. So Max is opaque. Numpuses are rompus"
+  },
+  {
+    "id": "ProntoQA_270",
+    "question": "Is the following statement true or false? Wren is not bright.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a wumpus. Wren is a yumpus. The answer: A ------",
+    "predicted_answer": "Wren is a wumpus. Wren is a yumpus. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_271",
+    "question": "Is the following statement true or false? Sally is not small.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a jompus. Hence, Sally is not small. ------",
+    "predicted_answer": "Sally is a jompus. Hence, Sally is not small. ------"
+  },
+  {
+    "id": "ProntoQA_272",
+    "question": "Is the following statement true or false? Alex is cold.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a yumpus. Yumpuses are not cold. So Alex is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_273",
+    "question": "Is the following statement true or false? Alex is luminous.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a jompus. Dumpus are hot. Each dumpus is a yumpus. Every yumpus is a vumpus. Every yumpus is a jom",
+    "predicted_answer": "Alex is a jompus. Dumpus are hot. Each dumpus is a yumpus. Every yumpus is a vumpus. Every yumpus is a jom"
+  },
+  {
+    "id": "ProntoQA_274",
+    "question": "Is the following statement true or false? Sam is not metallic.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a yumpus. Rompuses are not metallic. So Sam is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_275",
+    "question": "Is the following statement true or false? Max is not aggressive.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a tumpus. Each tumpus is a wumpus. Each wumpus is bright. Each wumpus is an impus. Impuses are luminous. Every w",
+    "predicted_answer": "Max is a tumpus. Each tumpus is a wumpus. Each wumpus is bright. Each wumpus is an impus. Impuses are luminous. Every w"
+  },
+  {
+    "id": "ProntoQA_276",
+    "question": "Is the following statement true or false? Sally is not nervous.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a dumpus. Sally is a wumpus. So Sally is a dumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_277",
+    "question": "Is the following statement true or false? Rex is not temperate.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a wumpus. ------",
+    "predicted_answer": "Rex is a wumpus. ------"
+  },
+  {
+    "id": "ProntoQA_278",
+    "question": "Is the following statement true or false? Sally is not dull.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a yumpus. Tumpuses are not dull. Wumpuses are dull. Sally is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_279",
+    "question": "Is the following statement true or false? Wren is not feisty.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a tumpus. Tumpuses are transparent. Tumpuses are rompuses. Every rompus is fruity. Each vumpus is feisty. Each",
+    "predicted_answer": "Wren is a tumpus. Tumpuses are transparent. Tumpuses are rompuses. Every rompus is fruity. Each vumpus is feisty. Each"
+  },
+  {
+    "id": "ProntoQA_280",
+    "question": "Is the following statement true or false? Alex is sweet.",
+    "answer": "B",
+    "predicted_reasoning": "False ------",
+    "predicted_answer": "False ------"
+  },
+  {
+    "id": "ProntoQA_281",
+    "question": "Is the following statement true or false? Stella is luminous.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a wumpus. Dumpuses are jompuses. Every wumpus is a jompus. Every jompus is a vumpus. Every vum",
+    "predicted_answer": "Stella is a wumpus. Dumpuses are jompuses. Every wumpus is a jompus. Every jompus is a vumpus. Every vum"
+  },
+  {
+    "id": "ProntoQA_282",
+    "question": "Is the following statement true or false? Stella is luminous.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a jompus. Yumpuses are numpuses. Numpuses are yumpuses. Each yumpus is luminous.",
+    "predicted_answer": "A ---"
+  },
+  {
+    "id": "ProntoQA_283",
+    "question": "Is the following statement true or false? Polly is large.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a wumpus. The answer: A ------",
+    "predicted_answer": "Polly is a wumpus. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_284",
+    "question": "Is the following statement true or false? Rex is happy.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a jompus. Rex is a rompus. Rex is a jompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_285",
+    "question": "Is the following statement true or false? Stella is cold.",
+    "answer": "A",
+    "predicted_reasoning": "The wumpus is a rompus. The wumpus is a tumpus. The wumpus is a numpus. The wumpus is a wumpus",
+    "predicted_answer": "The wumpus is a rompus. The wumpus is a tumpus. The wumpus is a numpus. The wumpus is a wumpus"
+  },
+  {
+    "id": "ProntoQA_286",
+    "question": "Is the following statement true or false? Max is floral.",
+    "answer": "A",
+    "predicted_reasoning": "Tumpuses are not floral. Max is an impus. So Max is not floral.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_287",
+    "question": "Is the following statement true or false? Rex is bright.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a tumpus. Rex is a tumpus. The answer is: B ------",
+    "predicted_answer": "Rex is a tumpus. Rex is a tumpus. The answer is: B ------"
+  },
+  {
+    "id": "ProntoQA_288",
+    "question": "Is the following statement true or false? Fae is opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is opaque because it is a wumpus. The answer: A ------",
+    "predicted_answer": "Fae is opaque because it is a wumpus. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_289",
+    "question": "Is the following statement true or false? Polly is amenable.",
+    "answer": "B",
+    "predicted_reasoning": "Every yumpus is transparent. Each yumpus is a yumpus. So each yumpus is transparent. Every yumpus is a jompus. Every jompus is",
+    "predicted_answer": "Every yumpus is transparent. Each yumpus is a yumpus. So each yumpus is transparent. Every yumpus is a jompus. Every jompus is"
+  },
+  {
+    "id": "ProntoQA_290",
+    "question": "Is the following statement true or false? Rex is sweet.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a wumpus. Rex is a jompus. Rex is a yumpus. Rex is a vumpus. Rex is a zumpus. Rex",
+    "predicted_answer": "Rex is a wumpus. Rex is a jompus. Rex is a yumpus. Rex is a vumpus. Rex is a zumpus. Rex"
+  },
+  {
+    "id": "ProntoQA_291",
+    "question": "Is the following statement true or false? Stella is not luminous.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a tumpus. Every tumpus is a rompus. Rompuses are not cold. Rompuses are jompuses. Each jompus is sweet.",
+    "predicted_answer": "Stella is a tumpus. Every tumpus is a rompus. Rompuses are not cold. Rompuses are jompuses. Each jompus is sweet."
+  },
+  {
+    "id": "ProntoQA_292",
+    "question": "Is the following statement true or false? Fae is transparent.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is transparent ------",
+    "predicted_answer": "Fae is transparent ------"
+  },
+  {
+    "id": "ProntoQA_293",
+    "question": "Is the following statement true or false? Sally is not luminous.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a jompus. So Sally is not luminous.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_294",
+    "question": "Is the following statement true or false? Polly is luminous.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a wumpus. Luminous is not luminous.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_295",
+    "question": "Is the following statement true or false? Sally is liquid.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a tumpus. Sally is a rompus. Sally is a jompus. The answer: B ------",
+    "predicted_answer": "Sally is a tumpus. Sally is a rompus. Sally is a jompus. The answer: B ------"
+  },
+  {
+    "id": "ProntoQA_296",
+    "question": "Is the following statement true or false? Wren is small.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a numpus. Each yumpus is a zumpus. Each yumpus is a yumpus. Each wumpus is small. So Wren is a num",
+    "predicted_answer": "Wren is a numpus. Each yumpus is a zumpus. Each yumpus is a yumpus. Each wumpus is small. So Wren is a num"
+  },
+  {
+    "id": "ProntoQA_297",
+    "question": "Is the following statement true or false? Sam is sour.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a tumpus. Every tumpus is a yumpus. Every yumpus is sour. Yumpuses are numpuses. Numpuses are nervous.",
+    "predicted_answer": "Sam is a tumpus. Every tumpus is a yumpus. Every yumpus is sour. Yumpuses are numpuses. Numpuses are nervous."
+  },
+  {
+    "id": "ProntoQA_298",
+    "question": "Is the following statement true or false? Sally is not happy.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a zumpus. Sally is a yumpus. Sally is a rompus. Sally is a numpus. Sally is a jompus. Sally is",
+    "predicted_answer": "Sally is a zumpus. Sally is a yumpus. Sally is a rompus. Sally is a numpus. Sally is a jompus. Sally is"
+  },
+  {
+    "id": "ProntoQA_299",
+    "question": "Is the following statement true or false? Polly is cold.",
+    "answer": "A",
+    "predicted_reasoning": "Dumpuses are cold. Each dumpus is a wumpus. Wumpuses are orange. Each yumpus is not cold. Dumpuses are spicy. Tumpuses are rompus",
+    "predicted_answer": "Dumpuses are cold. Each dumpus is a wumpus. Wumpuses are orange. Each yumpus is not cold. Dumpuses are spicy. Tumpuses are rompus"
+  },
+  {
+    "id": "ProntoQA_300",
+    "question": "Is the following statement true or false? Sam is temperate.",
+    "answer": "B",
+    "predicted_reasoning": "False ------",
+    "predicted_answer": "False ------"
+  },
+  {
+    "id": "ProntoQA_301",
+    "question": "Is the following statement true or false? Max is small.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a yumpus. Each tumpus is a numpus. Numpuses are shy. Numpuses are yumpuses. Yumpuses are small. Yumpus",
+    "predicted_answer": "Max is a yumpus. Each tumpus is a numpus. Numpuses are shy. Numpuses are yumpuses. Yumpuses are small. Yumpus"
+  },
+  {
+    "id": "ProntoQA_302",
+    "question": "Is the following statement true or false? Alex is not large.",
+    "answer": "A",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_303",
+    "question": "Is the following statement true or false? Alex is cold.",
+    "answer": "B",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_304",
+    "question": "Is the following statement true or false? Polly is not amenable.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a yumpus. Yumpuses are shy. Dumpuses are rompuses. The answer: A ------",
+    "predicted_answer": "Polly is a yumpus. Yumpuses are shy. Dumpuses are rompuses. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_305",
+    "question": "Is the following statement true or false? Alex is earthy.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a rompus. Every rompus is transparent. Rompuses are feisty. Rompuses are tumpuses. Vumpuses are metallic. Each vum",
+    "predicted_answer": "Alex is a rompus. Every rompus is transparent. Rompuses are feisty. Rompuses are tumpuses. Vumpuses are metallic. Each vum"
+  },
+  {
+    "id": "ProntoQA_306",
+    "question": "Is the following statement true or false? Max is aggressive.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a wumpus. Impuses are hot. Impuses are tumpuses. Impuses are wumpuses. Each wumpus is a yumpus",
+    "predicted_answer": "Max is a wumpus. Impuses are hot. Impuses are tumpuses. Impuses are wumpuses. Each wumpus is a yumpus"
+  },
+  {
+    "id": "ProntoQA_307",
+    "question": "Is the following statement true or false? Stella is not hot.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a yumpus. Tumpuses are rompuses. Rompuses are numpuses. Stella is a yumpus.",
+    "predicted_answer": "A ---"
+  },
+  {
+    "id": "ProntoQA_308",
+    "question": "Is the following statement true or false? Alex is not orange.",
+    "answer": "A",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_309",
+    "question": "Is the following statement true or false? Wren is not large.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a dumpus ------",
+    "predicted_answer": "Wren is a dumpus ------"
+  },
+  {
+    "id": "ProntoQA_310",
+    "question": "Is the following statement true or false? Sam is liquid.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a tumpus. Sam is a jompus. The answer is: B ------",
+    "predicted_answer": "Sam is a tumpus. Sam is a jompus. The answer is: B ------"
+  },
+  {
+    "id": "ProntoQA_311",
+    "question": "Is the following statement true or false? Polly is not small.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a wumpus. Yumpuses are not cold. Yumpuses are tumpuses. Yumpuses are red. Yumpuses",
+    "predicted_answer": "Polly is a wumpus. Yumpuses are not cold. Yumpuses are tumpuses. Yumpuses are red. Yumpuses"
+  },
+  {
+    "id": "ProntoQA_312",
+    "question": "Is the following statement true or false? Max is not aggressive.",
+    "answer": "A",
+    "predicted_reasoning": "Max is an impus. Yumpuses are not aggressive. So Max is an impus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_313",
+    "question": "Is the following statement true or false? Stella is temperate.",
+    "answer": "A",
+    "predicted_reasoning": "Dumpuses are not transparent. Each tumpus is a yumpus. Yumpuses are aggressive. Each yumpus is a jompus. Each jompus is liquid.",
+    "predicted_answer": "Dumpuses are not transparent. Each tumpus is a yumpus. Yumpuses are aggressive. Each yumpus is a jompus. Each jompus is liquid."
+  },
+  {
+    "id": "ProntoQA_314",
+    "question": "Is the following statement true or false? Sally is not opaque.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a jompus. Hence, Sally is not opaque.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_315",
+    "question": "Is the following statement true or false? Fae is not metallic.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is an intrinsic element of a wumpus. The answer is: A ------",
+    "predicted_answer": "Fae is an intrinsic element of a wumpus. The answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_316",
+    "question": "Is the following statement true or false? Alex is not dull.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a jompus. Tumpuses are not sweet. Numpuses are not dull. ------",
+    "predicted_answer": "Alex is a jompus. Tumpuses are not sweet. Numpuses are not dull. ------"
+  },
+  {
+    "id": "ProntoQA_317",
+    "question": "Is the following statement true or false? Stella is not red.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a yumpus. Yumpuses are dumpuses. Stella is a tumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_318",
+    "question": "Is the following statement true or false? Max is spicy.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a rompus. Every tumpus is a vumpus. Each vumpus is spicy. So Max is a rompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_319",
+    "question": "Is the following statement true or false? Wren is not temperate.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a jompus. Yumpuses are tumpuses. Wren is a tumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_320",
+    "question": "Is the following statement true or false? Sam is not shy.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a jompus. Yumpuses are not shy. Dumpuses are kind. Tumpuses are not shy. Sam is a jompus.",
+    "predicted_answer": ""
+  },
+  {
+    "id": "ProntoQA_321",
+    "question": "Is the following statement true or false? Sally is not temperate.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is an impus. ------",
+    "predicted_answer": "Sally is an impus. ------"
+  },
+  {
+    "id": "ProntoQA_322",
+    "question": "Is the following statement true or false? Alex is not opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a rompus. Tumpuses are rompuses. Rompuses are spicy. Rompuses are numpuses. Numpuses are not hot. Every numpus is",
+    "predicted_answer": "Alex is a rompus. Tumpuses are rompuses. Rompuses are spicy. Rompuses are numpuses. Numpuses are not hot. Every numpus is"
+  },
+  {
+    "id": "ProntoQA_323",
+    "question": "Is the following statement true or false? Wren is not amenable.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a dumpus ------",
+    "predicted_answer": "Wren is a dumpus ------"
+  },
+  {
+    "id": "ProntoQA_324",
+    "question": "Is the following statement true or false? Alex is not red.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a yumpus. Yompuses are not red. So Alex is not red.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_325",
+    "question": "Is the following statement true or false? Wren is not wooden.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a yumpus. Yumpuses are not wood. So Wren is not wooden.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_326",
+    "question": "Is the following statement true or false? Alex is transparent.",
+    "answer": "A",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_327",
+    "question": "Is the following statement true or false? Rex is not happy.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a wumpus. Rex is not happy.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_328",
+    "question": "Is the following statement true or false? Wren is transparent.",
+    "answer": "A",
+    "predicted_reasoning": "The wumpus is transparent. The wumpus is a wumpus. The answer: B ------",
+    "predicted_answer": "The wumpus is transparent. The wumpus is a wumpus. The answer: B ------"
+  },
+  {
+    "id": "ProntoQA_329",
+    "question": "Is the following statement true or false? Polly is not bitter.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a dumpus. Every tumpus is opaque. Every tumpus is a dumpus. Dumpus are wumpuses. Dumpus are rompuses. Du",
+    "predicted_answer": "Polly is a dumpus. Every tumpus is opaque. Every tumpus is a dumpus. Dumpus are wumpuses. Dumpus are rompuses. Du"
+  },
+  {
+    "id": "ProntoQA_330",
+    "question": "Is the following statement true or false? Rex is not earthy.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a numpus. Rex is a jompus. Rex is not earthy.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_331",
+    "question": "Is the following statement true or false? Sam is small.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a yumpus. Dumpus are not small. Sam is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_332",
+    "question": "Is the following statement true or false? Max is not kind.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a dumpus. Each tumpus is a rompus. Rompuses are not small. Rompuses are dumpuses. Each dumpus is fruity. Every dumpus is a",
+    "predicted_answer": "Max is a dumpus. Each tumpus is a rompus. Rompuses are not small. Rompuses are dumpuses. Each dumpus is fruity. Every dumpus is a"
+  },
+  {
+    "id": "ProntoQA_333",
+    "question": "Is the following statement true or false? Stella is not temperate.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a dumpus. Yumpuses are transparent. Dumpuses are stimuli. Dumpuses are stimuli. So Stella is a dumpus. Every jompus is not temperate",
+    "predicted_answer": "Stella is a dumpus. Yumpuses are transparent. Dumpuses are stimuli. Dumpuses are stimuli. So Stella is a dumpus. Every jompus is not temperate"
+  },
+  {
+    "id": "ProntoQA_334",
+    "question": "Is the following statement true or false? Sally is transparent.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a wumpus. Sally is transparent.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_335",
+    "question": "Is the following statement true or false? Polly is not large.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a wumpus. ------",
+    "predicted_answer": "Polly is a wumpus. ------"
+  },
+  {
+    "id": "ProntoQA_336",
+    "question": "Is the following statement true or false? Max is opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a wumpus. Dumpus is a tumpus. Tumpus is a tumpus. Max is a tumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_337",
+    "question": "Is the following statement true or false? Polly is spicy.",
+    "answer": "B",
+    "predicted_reasoning": "Dumpus are small. Dumpus is a vumpus. Each dumpus is a yumpus. Every yumpus is fruity. Every yumpus is numpuses. Each",
+    "predicted_answer": "Dumpus are small. Dumpus is a vumpus. Each dumpus is a yumpus. Every yumpus is fruity. Every yumpus is numpuses. Each"
+  },
+  {
+    "id": "ProntoQA_338",
+    "question": "Is the following statement true or false? Stella is not fruity.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a jompus. Tumpuses are fruity. Tumpuses are wooden. Yumpuses are dumpuses. Dumpuses are spicy. Each dumpus is an impus. Each",
+    "predicted_answer": "Stella is a jompus. Tumpuses are fruity. Tumpuses are wooden. Yumpuses are dumpuses. Dumpuses are spicy. Each dumpus is an impus. Each"
+  },
+  {
+    "id": "ProntoQA_339",
+    "question": "Is the following statement true or false? Max is transparent.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a yumpus. Every yumpus is a jompus. Jompuses are brown. Jompuses are wumpuses. Wumpuses are bright. Wu",
+    "predicted_answer": "Max is a yumpus. Every yumpus is a jompus. Jompuses are brown. Jompuses are wumpuses. Wumpuses are bright. Wu"
+  },
+  {
+    "id": "ProntoQA_340",
+    "question": "Is the following statement true or false? Wren is feisty.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a wumpus ------",
+    "predicted_answer": "Wren is a wumpus ------"
+  },
+  {
+    "id": "ProntoQA_341",
+    "question": "Is the following statement true or false? Polly is not temperate.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a vumpus. YUMPUSHES are sour. Impuses are jompuses. Impuses are jompuses. YUMPUSHES are w",
+    "predicted_answer": "Polly is a vumpus. YUMPUSHES are sour. Impuses are jompuses. Impuses are jompuses. YUMPUSHES are w"
+  },
+  {
+    "id": "ProntoQA_342",
+    "question": "Is the following statement true or false? Polly is temperate.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a rompus. Every jompus is temperate. So Polly is a rompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_343",
+    "question": "Is the following statement true or false? Polly is not sour.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a rompus. YUMPUSHES are sour. YUMPUSHES are jompuses. YUMPUSHES are luminous. YUMPUSHES",
+    "predicted_answer": "Polly is a rompus. YUMPUSHES are sour. YUMPUSHES are jompuses. YUMPUSHES are luminous. YUMPUSHES"
+  },
+  {
+    "id": "ProntoQA_344",
+    "question": "Is the following statement true or false? Stella is temperate.",
+    "answer": "B",
+    "predicted_reasoning": "Tumpuses are not temperate. Yumpuses are numpuses. Numpuses are not zumpuses. Each zumpus is not temperate. So Stella is a vumpus. The",
+    "predicted_answer": "Tumpuses are not temperate. Yumpuses are numpuses. Numpuses are not zumpuses. Each zumpus is not temperate. So Stella is a vumpus. The"
+  },
+  {
+    "id": "ProntoQA_345",
+    "question": "Is the following statement true or false? Rex is not small.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a tumpus. ------",
+    "predicted_answer": "Rex is a tumpus. ------"
+  },
+  {
+    "id": "ProntoQA_346",
+    "question": "Is the following statement true or false? Sam is not bright.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a yumpus. Dumpus are not bright. So Sam is a yumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_347",
+    "question": "Is the following statement true or false? Sally is not earthy.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is an induced ------",
+    "predicted_answer": "Sally is an induced ------"
+  },
+  {
+    "id": "ProntoQA_348",
+    "question": "Is the following statement true or false? Fae is luminous.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a rompus. ------",
+    "predicted_answer": "Fae is a rompus. ------"
+  },
+  {
+    "id": "ProntoQA_349",
+    "question": "Is the following statement true or false? Alex is not mean.",
+    "answer": "A",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_350",
+    "question": "Is the following statement true or false? Alex is not sour.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a rompus. Dumpuses are dull. Rompuses are jompuses. Dumpuses are tumpuses. Every tumpus is fruity.",
+    "predicted_answer": "Alex is a rompus. Dumpuses are dull. Rompuses are jompuses. Dumpuses are tumpuses. Every tumpus is fruity."
+  },
+  {
+    "id": "ProntoQA_351",
+    "question": "Is the following statement true or false? Stella is not fruity.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a tumpus. Every tumpus is a wumpus. Every wumpus is a rompus. Every rompus is a vumpus. Every w",
+    "predicted_answer": "Stella is a tumpus. Every tumpus is a wumpus. Every wumpus is a rompus. Every rompus is a vumpus. Every w"
+  },
+  {
+    "id": "ProntoQA_352",
+    "question": "Is the following statement true or false? Wren is not opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a jompus. Wren is not opaque. ------",
+    "predicted_answer": "Wren is a jompus. Wren is not opaque. ------"
+  },
+  {
+    "id": "ProntoQA_353",
+    "question": "Is the following statement true or false? Wren is not hot.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a dumpus ------",
+    "predicted_answer": "Wren is a dumpus ------"
+  },
+  {
+    "id": "ProntoQA_354",
+    "question": "Is the following statement true or false? Fae is not bright.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is a yumpus. Yumpuses are feisty. So Fae is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_355",
+    "question": "Is the following statement true or false? Rex is not brown.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a dumpus. YUMPUTS are not brown. YUMPUTS are wumpuses. YUMPUTS are yumpuses.",
+    "predicted_answer": "A"
+  },
+  {
+    "id": "ProntoQA_356",
+    "question": "Is the following statement true or false? Rex is kind.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a dumpus. YUMPUTS are not kind. YUMPUTS are wumpuses. Rex is a dumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_357",
+    "question": "Is the following statement true or false? Stella is blue.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a wumpus. Yumpuses are rompuses. Yumpuses are sour. Every yumpus is a tumpus. Impuse",
+    "predicted_answer": "Stella is a wumpus. Yumpuses are rompuses. Yumpuses are sour. Every yumpus is a tumpus. Impuse"
+  },
+  {
+    "id": "ProntoQA_358",
+    "question": "Is the following statement true or false? Max is wooden.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a tumpus. Each yumpus is a rompus. Dumpuses are not wooden. Numpuses are fruity. Numpuses are yumpuses.",
+    "predicted_answer": "Max is a tumpus. Each yumpus is a rompus. Dumpuses are not wooden. Numpuses are fruity. Numpuses are yumpuses."
+  },
+  {
+    "id": "ProntoQA_359",
+    "question": "Is the following statement true or false? Max is wooden.",
+    "answer": "A",
+    "predicted_reasoning": "Max is an owl. Wooden is not a wumpus. So Max is an owl.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_360",
+    "question": "Is the following statement true or false? Sally is temperate.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a rompus. Rompuses are not kind. Every rompus is a dumpus. Every dumpus is metallic. Every dumpus is an impus. Every rompus is shy. Every",
+    "predicted_answer": "Sally is a rompus. Rompuses are not kind. Every rompus is a dumpus. Every dumpus is metallic. Every dumpus is an impus. Every rompus is shy. Every"
+  },
+  {
+    "id": "ProntoQA_361",
+    "question": "Is the following statement true or false? Rex is transparent.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is an impus. Rex is transparent.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_362",
+    "question": "Is the following statement true or false? Sally is not blue.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a wumpus. Sally is a tumpus. Sally is a jompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_363",
+    "question": "Is the following statement true or false? Polly is not dull.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is an inducement ------",
+    "predicted_answer": "Polly is an inducement ------"
+  },
+  {
+    "id": "ProntoQA_364",
+    "question": "Is the following statement true or false? Stella is not kind.",
+    "answer": "B",
+    "predicted_reasoning": "Rompuses are not kind. Every yumpus is orange. Every yumpus is a tumpus. Each tumpus is a tumpus. Each tumpus is",
+    "predicted_answer": "Rompuses are not kind. Every yumpus is orange. Every yumpus is a tumpus. Each tumpus is a tumpus. Each tumpus is"
+  },
+  {
+    "id": "ProntoQA_365",
+    "question": "Is the following statement true or false? Sally is not transparent.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a rompus. YUMPUTS are transparent. Vumpuses are not happy. Vumpuses are rompuses. Every zumpus is a numpus. Every",
+    "predicted_answer": "Sally is a rompus. YUMPUTS are transparent. Vumpuses are not happy. Vumpuses are rompuses. Every zumpus is a numpus. Every"
+  },
+  {
+    "id": "ProntoQA_366",
+    "question": "Is the following statement true or false? Polly is floral.",
+    "answer": "B",
+    "predicted_reasoning": "The yumpus is not floral. The numpus is a tumpus. The answer: B ------",
+    "predicted_answer": "The yumpus is not floral. The numpus is a tumpus. The answer: B ------"
+  },
+  {
+    "id": "ProntoQA_367",
+    "question": "Is the following statement true or false? Polly is hot.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a jompus.",
+    "predicted_answer": "Polly is a jompus."
+  },
+  {
+    "id": "ProntoQA_368",
+    "question": "Is the following statement true or false? Fae is not blue.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a tumpus. YUMPUSE IS NOT blue.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_369",
+    "question": "Is the following statement true or false? Rex is brown.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a numpus. Rex is a rompus. Rex is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_370",
+    "question": "Is the following statement true or false? Max is not earthy.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a wumpus. Every wumpus is a jompus. Jompuses are temperate. Jompuses are zumpuses. Each zumpus is not small. Every zum",
+    "predicted_answer": "Max is a wumpus. Every wumpus is a jompus. Jompuses are temperate. Jompuses are zumpuses. Each zumpus is not small. Every zum"
+  },
+  {
+    "id": "ProntoQA_371",
+    "question": "Is the following statement true or false? Sam is not dull.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a zumpus. Rompuses are floral. Rompuses are impuses. Impuses are sour. Impuses are numpus. Numpuses are hot. Numpuse",
+    "predicted_answer": "Sam is a zumpus. Rompuses are floral. Rompuses are impuses. Impuses are sour. Impuses are numpus. Numpuses are hot. Numpuse"
+  },
+  {
+    "id": "ProntoQA_372",
+    "question": "Is the following statement true or false? Rex is kind.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a wumpus. ------",
+    "predicted_answer": "Rex is a wumpus. ------"
+  },
+  {
+    "id": "ProntoQA_373",
+    "question": "Is the following statement true or false? Sam is dull.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a zumpus. Every rompus is a wumpus. Every vumpus is dull. Every numpus is not fruity. Each dumpus is small. Each dumpus is a y",
+    "predicted_answer": "Sam is a zumpus. Every rompus is a wumpus. Every vumpus is dull. Every numpus is not fruity. Each dumpus is small. Each dumpus is a y"
+  },
+  {
+    "id": "ProntoQA_374",
+    "question": "Is the following statement true or false? Fae is aggressive.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a feisty yumpus. The answer is: B ------",
+    "predicted_answer": "Fae is a feisty yumpus. The answer is: B ------"
+  },
+  {
+    "id": "ProntoQA_375",
+    "question": "Is the following statement true or false? Fae is metallic.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a tumpus. YUMPUMS are jompuses. The answer: A ------",
+    "predicted_answer": "Fae is a tumpus. YUMPUMS are jompuses. The answer: A ------"
+  },
+  {
+    "id": "ProntoQA_376",
+    "question": "Is the following statement true or false? Wren is transparent.",
+    "answer": "A",
+    "predicted_reasoning": "Vumpuses are transparent. Wren is a rompus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_377",
+    "question": "Is the following statement true or false? Sam is not dull.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a zumpus. Sam is a tumpus. Sam is a jompus. Sam is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_378",
+    "question": "Is the following statement true or false? Max is transparent.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a wumpus. Dumpus are nervous. Dumpus are transparent. So Max is transparent.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_379",
+    "question": "Is the following statement true or false? Wren is not sour.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is an inducer. ------",
+    "predicted_answer": "Wren is an inducer. ------"
+  },
+  {
+    "id": "ProntoQA_380",
+    "question": "Is the following statement true or false? Polly is not happy.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a yumpus. Yumpuses are not happy. Polly is a zumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_381",
+    "question": "Is the following statement true or false? Sally is feisty.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a rompus. Rompuses are blue. Sally is a feisty.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_382",
+    "question": "Is the following statement true or false? Polly is not temperate.",
+    "answer": "B",
+    "predicted_reasoning": "The jompus is fruity. The jompus is a vumpus. The jompus is opaque. The jompus is not temperate.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_383",
+    "question": "Is the following statement true or false? Sam is brown.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a jompus. Rompuses are numpuses. Rompuses are yumpuses. Rompuses are feisty. Rompuses are dumpuse",
+    "predicted_answer": "Sam is a jompus. Rompuses are numpuses. Rompuses are yumpuses. Rompuses are feisty. Rompuses are dumpuse"
+  },
+  {
+    "id": "ProntoQA_384",
+    "question": "Is the following statement true or false? Fae is not kind.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a dumpus ------",
+    "predicted_answer": "Fae is a dumpus ------"
+  },
+  {
+    "id": "ProntoQA_385",
+    "question": "Is the following statement true or false? Wren is fruity.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a numpus. Wren is a wumpus. Wren is a rompus. Wren is not spicy. Wren is not dumpus.",
+    "predicted_answer": "B ---"
+  },
+  {
+    "id": "ProntoQA_386",
+    "question": "Is the following statement true or false? Wren is floral.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a rompus. ------",
+    "predicted_answer": "Wren is a rompus. ------"
+  },
+  {
+    "id": "ProntoQA_387",
+    "question": "Is the following statement true or false? Polly is red.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a wumpus. YUMPUTS are not red. YUMPUTS are luminous. YUMPUTS are feisty. YUMPUTS are red.",
+    "predicted_answer": "Polly is a wumpus. YUMPUTS are not red. YUMPUTS are luminous. YUMPUTS are feisty. YUMPUTS are red."
+  },
+  {
+    "id": "ProntoQA_388",
+    "question": "Is the following statement true or false? Rex is not luminous.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a wumpus. ------",
+    "predicted_answer": "Rex is a wumpus. ------"
+  },
+  {
+    "id": "ProntoQA_389",
+    "question": "Is the following statement true or false? Sally is not cold.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a jompus. Sally is a tumpus. Sally is a rompus. Sally is not cold.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_390",
+    "question": "Is the following statement true or false? Max is fruity.",
+    "answer": "B",
+    "predicted_reasoning": "No rompuses are fruity. No wumpuses are yumpuses. No wumpuses are cold. No wumpuses are transparent. No wum",
+    "predicted_answer": "No rompuses are fruity. No wumpuses are yumpuses. No wumpuses are cold. No wumpuses are transparent. No wum"
+  },
+  {
+    "id": "ProntoQA_391",
+    "question": "Is the following statement true or false? Stella is brown.",
+    "answer": "A",
+    "predicted_reasoning": "The sentence is false because there is no proof of it being true. YUMPUTS are not brown. YUMPUTS are transparent. YUMPUTS are jompuses. YUMPUTS are",
+    "predicted_answer": "The sentence is false because there is no proof of it being true. YUMPUTS are not brown. YUMPUTS are transparent. YUMPUTS are jompuses. YUMPUTS are"
+  },
+  {
+    "id": "ProntoQA_392",
+    "question": "Is the following statement true or false? Stella is blue.",
+    "answer": "A",
+    "predicted_reasoning": "The rompus is blue. The rompus is a tumpus. The rompus is a tumpus. The tumpus is a blue.",
+    "predicted_answer": "B ---"
+  },
+  {
+    "id": "ProntoQA_393",
+    "question": "Is the following statement true or false? Fae is not dull.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is a tumpus. Each tumpus is large. Each tumpus is a zumpus. Each zumpus is a wumpus. Fae is a vumpus.",
+    "predicted_answer": "Fae is a tumpus. Each tumpus is large. Each tumpus is a zumpus. Each zumpus is a wumpus. Fae is a vumpus."
+  },
+  {
+    "id": "ProntoQA_394",
+    "question": "Is the following statement true or false? Fae is not dull.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a tumpus. Yummy is not dull. Yummy is not dull.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_395",
+    "question": "Is the following statement true or false? Wren is brown.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a yumpus. Yumpuses are not opaque. Yumpuses are jompuses. Yumpuses are not dull. Yumpuses",
+    "predicted_answer": "Wren is a yumpus. Yumpuses are not opaque. Yumpuses are jompuses. Yumpuses are not dull. Yumpuses"
+  },
+  {
+    "id": "ProntoQA_396",
+    "question": "Is the following statement true or false? Sally is happy.",
+    "answer": "A",
+    "predicted_reasoning": "False ------",
+    "predicted_answer": "False ------"
+  },
+  {
+    "id": "ProntoQA_397",
+    "question": "Is the following statement true or false? Stella is fruity.",
+    "answer": "B",
+    "predicted_reasoning": "Vumpuses are fruity. Every wumpus is cold. Every dumpus is an impus. Each impus is not spicy. Each impus is a numpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_398",
+    "question": "Is the following statement true or false? Wren is opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is opaque ------",
+    "predicted_answer": "Wren is opaque ------"
+  },
+  {
+    "id": "ProntoQA_399",
+    "question": "Is the following statement true or false? Polly is not opaque.",
+    "answer": "A",
+    "predicted_reasoning": "The wumpus is a jompus. Each wumpus is orange. Every jompus is a numpus. Every numpus is a vumpus. Each vumpus is",
+    "predicted_answer": "The wumpus is a jompus. Each wumpus is orange. Every jompus is a numpus. Every numpus is a vumpus. Each vumpus is"
+  },
+  {
+    "id": "ProntoQA_400",
+    "question": "Is the following statement true or false? Wren is not happy.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a rompus. Wren is not happy.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_401",
+    "question": "Is the following statement true or false? Sally is not liquid.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a wumpus. YUMPUTS are not liquid. So Sally is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_402",
+    "question": "Is the following statement true or false? Stella is not angry.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a yumpus. Yompuses are not angry. So Stella is a yumpus. So Stella is a yumpus.",
+    "predicted_answer": "A ---"
+  },
+  {
+    "id": "ProntoQA_403",
+    "question": "Is the following statement true or false? Alex is wooden.",
+    "answer": "B",
+    "predicted_reasoning": "The sentence is false because it is not true. Alex is a vumpus. The answer is: B ------",
+    "predicted_answer": "The sentence is false because it is not true. Alex is a vumpus. The answer is: B ------"
+  },
+  {
+    "id": "ProntoQA_404",
+    "question": "Is the following statement true or false? Fae is not happy.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is an induced. ------",
+    "predicted_answer": "Fae is an induced. ------"
+  },
+  {
+    "id": "ProntoQA_405",
+    "question": "Is the following statement true or false? Wren is not dull.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a wumpus. ------",
+    "predicted_answer": "Wren is a wumpus. ------"
+  },
+  {
+    "id": "ProntoQA_406",
+    "question": "Is the following statement true or false? Sally is cold.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is an irmpus. Sally is a numpus. Sally is a jompus. Sally is cold.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_407",
+    "question": "Is the following statement true or false? Max is not happy.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a yumpus. Each rompus is a dumpus. So Max is dumpus. Dumpus is a wumpus. Wumpuses are not red. Each wumpus",
+    "predicted_answer": "Max is a yumpus. Each rompus is a dumpus. So Max is dumpus. Dumpus is a wumpus. Wumpuses are not red. Each wumpus"
+  },
+  {
+    "id": "ProntoQA_408",
+    "question": "Is the following statement true or false? Sally is mean.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a jompus. Rompuses are large. Rompuses are mean. So Sally is a jompus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_409",
+    "question": "Is the following statement true or false? Stella is cold.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a wumpus. Every wumpus is a wumpus. So Stella is a wumpus. Every dumpus is not cold. So Stella is a w",
+    "predicted_answer": "Stella is a wumpus. Every wumpus is a wumpus. So Stella is a wumpus. Every dumpus is not cold. So Stella is a w"
+  },
+  {
+    "id": "ProntoQA_410",
+    "question": "Is the following statement true or false? Sam is not sweet.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a tumpus. Sam is a dumpus. So Sam is not sweet.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_411",
+    "question": "Is the following statement true or false? Stella is bright.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a wumpus. Yumpuses are bright. So Stella is a wumpus. Dumpuses are transparent. Each dumpus is a zumpus. Every zumpus is",
+    "predicted_answer": "Stella is a wumpus. Yumpuses are bright. So Stella is a wumpus. Dumpuses are transparent. Each dumpus is a zumpus. Every zumpus is"
+  },
+  {
+    "id": "ProntoQA_412",
+    "question": "Is the following statement true or false? Max is happy.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a yumpus. Each yumpus is transparent. So Max is a vumpus. Dumpus are tumpuses. Every tumpus is not happy. Each jo",
+    "predicted_answer": "Max is a yumpus. Each yumpus is transparent. So Max is a vumpus. Dumpus are tumpuses. Every tumpus is not happy. Each jo"
+  },
+  {
+    "id": "ProntoQA_413",
+    "question": "Is the following statement true or false? Rex is small.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a tumpus. Rex is a rompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_414",
+    "question": "Is the following statement true or false? Sally is not dull.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a tumpus. YUMPUTS are yumpuses. YUMPUTS are jompuses. YUMPUTS are yumpuses.",
+    "predicted_answer": "Sally is a tumpus. YUMPUTS are yumpuses. YUMPUTS are jompuses. YUMPUTS are yumpuses."
+  },
+  {
+    "id": "ProntoQA_415",
+    "question": "Is the following statement true or false? Alex is red.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a rompus. So Alex is a rompus. The answer is: A ------",
+    "predicted_answer": "Alex is a rompus. So Alex is a rompus. The answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_416",
+    "question": "Is the following statement true or false? Polly is not opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a tumpus. Yumpuses are not opaque. Yumpuses are bitter. Yumpuses are dumpuses. Polly is a zumpus. The",
+    "predicted_answer": "Polly is a tumpus. Yumpuses are not opaque. Yumpuses are bitter. Yumpuses are dumpuses. Polly is a zumpus. The"
+  },
+  {
+    "id": "ProntoQA_417",
+    "question": "Is the following statement true or false? Polly is not metallic.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a yumpus. Every tumpus is orange. Tumpuses are vumpuses. Each vumpus is not small. Vumpuses are wumpuses.",
+    "predicted_answer": "Polly is a yumpus. Every tumpus is orange. Tumpuses are vumpuses. Each vumpus is not small. Vumpuses are wumpuses."
+  },
+  {
+    "id": "ProntoQA_418",
+    "question": "Is the following statement true or false? Alex is not red.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a tumpus. Tumpuses are red. Dumpuses are impuses. Impuses are bright. Each impus is a vumpus. Each vumpus is earthy. V",
+    "predicted_answer": "Alex is a tumpus. Tumpuses are red. Dumpuses are impuses. Impuses are bright. Each impus is a vumpus. Each vumpus is earthy. V"
+  },
+  {
+    "id": "ProntoQA_419",
+    "question": "Is the following statement true or false? Wren is not small.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a rompus. YUMPUSHES are small. Wren is a rompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_420",
+    "question": "Is the following statement true or false? Rex is not opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a yumpus. Yumpuses are opaque. So Rex is not opaque.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_421",
+    "question": "Is the following statement true or false? Alex is nervous.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a tumpus. Each rompus is not floral. Each rompus is not floral. Each yumpus is a vumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_422",
+    "question": "Is the following statement true or false? Fae is not happy.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is a tumpus. Tumpuses are not happy. Dumpuses are happy. Dumpuses are vumpuses. ------",
+    "predicted_answer": "Fae is a tumpus. Tumpuses are not happy. Dumpuses are happy. Dumpuses are vumpuses. ------"
+  },
+  {
+    "id": "ProntoQA_423",
+    "question": "Is the following statement true or false? Wren is not transparent.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is transparent. ------",
+    "predicted_answer": "Wren is transparent. ------"
+  },
+  {
+    "id": "ProntoQA_424",
+    "question": "Is the following statement true or false? Polly is not mean.",
+    "answer": "A",
+    "predicted_reasoning": "Polly is a rompus. YUMPUSes are not mean. So Polly is a rompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_425",
+    "question": "Is the following statement true or false? Wren is not opaque.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is opaque ------",
+    "predicted_answer": "Wren is opaque ------"
+  },
+  {
+    "id": "ProntoQA_426",
+    "question": "Is the following statement true or false? Wren is floral.",
+    "answer": "B",
+    "predicted_reasoning": "No wren is a jompus. Neither is a jompus. The answer is: B ------",
+    "predicted_answer": "No wren is a jompus. Neither is a jompus. The answer is: B ------"
+  },
+  {
+    "id": "ProntoQA_427",
+    "question": "Is the following statement true or false? Alex is small.",
+    "answer": "A",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_428",
+    "question": "Is the following statement true or false? Rex is not feisty.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a yumpus. Yumpuses are feisty. So Rex is not feisty.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_429",
+    "question": "Is the following statement true or false? Wren is not shy.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is an inducer. Wren is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_430",
+    "question": "Is the following statement true or false? Wren is not shy.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a tumpus. Each rompus is an impus. Impuses are small. Impuses are wumpuses. Wumpuses are luminous. Wumpuses are dump",
+    "predicted_answer": "Wren is a tumpus. Each rompus is an impus. Impuses are small. Impuses are wumpuses. Wumpuses are luminous. Wumpuses are dump"
+  },
+  {
+    "id": "ProntoQA_431",
+    "question": "Is the following statement true or false? Rex is large.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a rompus. Rex is a yumpus. Rex is a tumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_432",
+    "question": "Is the following statement true or false? Sally is not red.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a yumpus. Sally is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_433",
+    "question": "Is the following statement true or false? Wren is not hot.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a yumpus. Yumpuses are floral. Yumpuses are dumpuses. Dumpuses are sweet. Dumpuses are tumpuses.",
+    "predicted_answer": "Wren is a yumpus. Yumpuses are floral. Yumpuses are dumpuses. Dumpuses are sweet. Dumpuses are tumpuses."
+  },
+  {
+    "id": "ProntoQA_434",
+    "question": "Is the following statement true or false? Max is small.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a jompus. Dumpus are transparent. Dumpus are tumpuses. Tumpus are small. So Max is a jompus.",
+    "predicted_answer": "A"
+  },
+  {
+    "id": "ProntoQA_435",
+    "question": "Is the following statement true or false? Rex is not opaque.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a yumpus. Rex is not opaque.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_436",
+    "question": "Is the following statement true or false? Max is floral.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a rompus. Dumpus are yumpuses. Tumpus are jompuses. Vumpuses are dumpuses. Dumpus are wumpuses",
+    "predicted_answer": "Max is a rompus. Dumpus are yumpuses. Tumpus are jompuses. Vumpuses are dumpuses. Dumpus are wumpuses"
+  },
+  {
+    "id": "ProntoQA_437",
+    "question": "Is the following statement true or false? Fae is earthy.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is an induced. ------",
+    "predicted_answer": "Fae is an induced. ------"
+  },
+  {
+    "id": "ProntoQA_438",
+    "question": "Is the following statement true or false? Sam is small.",
+    "answer": "B",
+    "predicted_reasoning": "Sam is a dumpus. Dumpuses are small. Dumpuses are jompuses. Sam is a dumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_439",
+    "question": "Is the following statement true or false? Sally is not orange.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a wumpus. ------",
+    "predicted_answer": "Sally is a wumpus. ------"
+  },
+  {
+    "id": "ProntoQA_440",
+    "question": "Is the following statement true or false? Stella is cold.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a wumpus. Yumpuses are nervous. Each yumpus is a dumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_441",
+    "question": "Is the following statement true or false? Fae is small.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is a tumpus. Yummy is a tumpus. Yummy is a jompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_442",
+    "question": "Is the following statement true or false? Alex is not large.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a yumpus. Tumpuses are not floral. Tumpuses are rompuses. Rompuses are not large. So Alex is a yumpus. The correct option",
+    "predicted_answer": "Alex is a yumpus. Tumpuses are not floral. Tumpuses are rompuses. Rompuses are not large. So Alex is a yumpus. The correct option"
+  },
+  {
+    "id": "ProntoQA_443",
+    "question": "Is the following statement true or false? Max is not metallic.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a rompus. Each yumpus is hot. Yumpuses are dumpuses. Dumpuses are not bright. Every rompus is spicy. Every rompus is a vum",
+    "predicted_answer": "Max is a rompus. Each yumpus is hot. Yumpuses are dumpuses. Dumpuses are not bright. Every rompus is spicy. Every rompus is a vum"
+  },
+  {
+    "id": "ProntoQA_444",
+    "question": "Is the following statement true or false? Alex is not large.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a wumpus. YUMpuses are feisty. YUMpuses are wumpuses. YUMpuses are feisty.",
+    "predicted_answer": "Alex is a wumpus. YUMpuses are feisty. YUMpuses are wumpuses. YUMpuses are feisty."
+  },
+  {
+    "id": "ProntoQA_445",
+    "question": "Is the following statement true or false? Stella is sour.",
+    "answer": "A",
+    "predicted_reasoning": "Stella is a jompus. Each jompus is a wumpus. So Stella is a jompus. Every jompus is a wumpus. So Stell",
+    "predicted_answer": "Stella is a jompus. Each jompus is a wumpus. So Stella is a jompus. Every jompus is a wumpus. So Stell"
+  },
+  {
+    "id": "ProntoQA_446",
+    "question": "Is the following statement true or false? Alex is transparent.",
+    "answer": "B",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_447",
+    "question": "Is the following statement true or false? Sally is mean.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a tumpus. Every tumpus is blue. Every tumpus is an impus. Every tumpus is a wumpus. Every wumpus is hot. Every",
+    "predicted_answer": "Sally is a tumpus. Every tumpus is blue. Every tumpus is an impus. Every tumpus is a wumpus. Every wumpus is hot. Every"
+  },
+  {
+    "id": "ProntoQA_448",
+    "question": "Is the following statement true or false? Wren is not red.",
+    "answer": "B",
+    "predicted_reasoning": "Rompuses are not red. Wren is a jompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_449",
+    "question": "Is the following statement true or false? Max is metallic.",
+    "answer": "B",
+    "predicted_reasoning": "No jompus is metallic. Max is a yumpus. The answer: B ------",
+    "predicted_answer": "No jompus is metallic. Max is a yumpus. The answer: B ------"
+  },
+  {
+    "id": "ProntoQA_450",
+    "question": "Is the following statement true or false? Stella is not transparent.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a tumpus. Each dumpus is transparent. So Stella is a dumpus. Every numpus is an impus. So Stella is a tumpus.",
+    "predicted_answer": ""
+  },
+  {
+    "id": "ProntoQA_451",
+    "question": "Is the following statement true or false? Wren is angry.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a dumpus ------",
+    "predicted_answer": "Wren is a dumpus ------"
+  },
+  {
+    "id": "ProntoQA_452",
+    "question": "Is the following statement true or false? Max is red.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a yumpus. Dumpuses are bright. Dumpuses are yumpuses. So Max is not red ------",
+    "predicted_answer": "Max is a yumpus. Dumpuses are bright. Dumpuses are yumpuses. So Max is not red ------"
+  },
+  {
+    "id": "ProntoQA_453",
+    "question": "Is the following statement true or false? Wren is not brown.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a rompus. ------",
+    "predicted_answer": "Wren is a rompus. ------"
+  },
+  {
+    "id": "ProntoQA_454",
+    "question": "Is the following statement true or false? Sally is floral.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a wumpus. Yumpuses are not floral. So Sally is a wumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_455",
+    "question": "Is the following statement true or false? Polly is feisty.",
+    "answer": "B",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_456",
+    "question": "Is the following statement true or false? Fae is not earthy.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is an induced ------",
+    "predicted_answer": "Fae is an induced ------"
+  },
+  {
+    "id": "ProntoQA_457",
+    "question": "Is the following statement true or false? Stella is not large.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a wumpus. Every wumpus is bitter. Every wumpus is a numpus. Dumpuses are jompuses. Every jompus is not red",
+    "predicted_answer": "Stella is a wumpus. Every wumpus is bitter. Every wumpus is a numpus. Dumpuses are jompuses. Every jompus is not red"
+  },
+  {
+    "id": "ProntoQA_458",
+    "question": "Is the following statement true or false? Rex is not transparent.",
+    "answer": "B",
+    "predicted_reasoning": "Rompuses are transparent. Tumpuses are bright. Tumpuses are jompuses. Rompuses are not transparent. So Rex is not transparent.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_459",
+    "question": "Is the following statement true or false? Max is earthy.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a tumpus. Every tumpus is a vumpus. Vumpuses are luminous. Every vumpus is a yumpus. Yumpuses are happy.",
+    "predicted_answer": "Max is a tumpus. Every tumpus is a vumpus. Vumpuses are luminous. Every vumpus is a yumpus. Yumpuses are happy."
+  },
+  {
+    "id": "ProntoQA_460",
+    "question": "Is the following statement true or false? Sam is not liquid.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a dumpus. YUMPUTS are liquid. Dumpuses are bright. Dumpuses are yumpuses. Every yumpus is fruity. Every yumpus is",
+    "predicted_answer": "Sam is a dumpus. YUMPUTS are liquid. Dumpuses are bright. Dumpuses are yumpuses. Every yumpus is fruity. Every yumpus is"
+  },
+  {
+    "id": "ProntoQA_461",
+    "question": "Is the following statement true or false? Rex is opaque.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is not opaque. ------",
+    "predicted_answer": "Rex is not opaque. ------"
+  },
+  {
+    "id": "ProntoQA_462",
+    "question": "Is the following statement true or false? Sally is not opaque.",
+    "answer": "A",
+    "predicted_reasoning": "Sally is a rompus. YUMPUTS are transparent. YUMPUTS are not opaque.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_463",
+    "question": "Is the following statement true or false? Stella is brown.",
+    "answer": "B",
+    "predicted_reasoning": "The sentence is false because there is no proof of it being true. The sentence is true because there is no proof of it being true.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_464",
+    "question": "Is the following statement true or false? Alex is cold.",
+    "answer": "B",
+    "predicted_reasoning": "Wumpuses are luminous. Tumpuses are jompuses. Dumpuses are large. Dumpuses are zumpuses. Zumpuses are dull. Impuses are nu",
+    "predicted_answer": "Wumpuses are luminous. Tumpuses are jompuses. Dumpuses are large. Dumpuses are zumpuses. Zumpuses are dull. Impuses are nu"
+  },
+  {
+    "id": "ProntoQA_465",
+    "question": "Is the following statement true or false? Rex is not sour.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a yumpus. Yumpuses are not sour. So Rex is not sour.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_466",
+    "question": "Is the following statement true or false? Max is angry.",
+    "answer": "B",
+    "predicted_reasoning": "Max is an irritant. Impuses are shy. Impuses are vumpuses. Vumpuses are metallic. Vumpuses are tumpuses. Tumpuses are earth",
+    "predicted_answer": "Max is an irritant. Impuses are shy. Impuses are vumpuses. Vumpuses are metallic. Vumpuses are tumpuses. Tumpuses are earth"
+  },
+  {
+    "id": "ProntoQA_467",
+    "question": "Is the following statement true or false? Alex is not blue.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a jompus. So, he is not blue.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_468",
+    "question": "Is the following statement true or false? Polly is not kind.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a tumpus. YUMPUSES are not kind. YUMPUSES are not feisty. Vumpuses are dumpuses. Each wumpus",
+    "predicted_answer": "Polly is a tumpus. YUMPUSES are not kind. YUMPUSES are not feisty. Vumpuses are dumpuses. Each wumpus"
+  },
+  {
+    "id": "ProntoQA_469",
+    "question": "Is the following statement true or false? Polly is not mean.",
+    "answer": "A",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_470",
+    "question": "Is the following statement true or false? Alex is not small.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a jompus. Dumpuss are not small. ------",
+    "predicted_answer": "Alex is a jompus. Dumpuss are not small. ------"
+  },
+  {
+    "id": "ProntoQA_471",
+    "question": "Is the following statement true or false? Sam is bright.",
+    "answer": "A",
+    "predicted_reasoning": "False ------",
+    "predicted_answer": "False ------"
+  },
+  {
+    "id": "ProntoQA_472",
+    "question": "Is the following statement true or false? Wren is not sour.",
+    "answer": "B",
+    "predicted_reasoning": "Wren is a wumpus. Yumpuses are not sour. Wren is a wumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_473",
+    "question": "Is the following statement true or false? Max is not liquid.",
+    "answer": "A",
+    "predicted_reasoning": "Max is a wumpus. Dumpus are not liquid. So Max is a wumpus. Wumpuses are not liquid. So Max is a wumpus.",
+    "predicted_answer": ""
+  },
+  {
+    "id": "ProntoQA_474",
+    "question": "Is the following statement true or false? Sally is mean.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a tumpus. So Sally is a tumpus. The answer is: A ------",
+    "predicted_answer": "Sally is a tumpus. So Sally is a tumpus. The answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_475",
+    "question": "Is the following statement true or false? Polly is not bright.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a dumpus. Each jompus is red. Each jompus is a dumpus. Every dumpus is amenable. Every dumpus is a tumpus. Tumpuse",
+    "predicted_answer": "Polly is a dumpus. Each jompus is red. Each jompus is a dumpus. Every dumpus is amenable. Every dumpus is a tumpus. Tumpuse"
+  },
+  {
+    "id": "ProntoQA_476",
+    "question": "Is the following statement true or false? Wren is amenable.",
+    "answer": "A",
+    "predicted_reasoning": "Wren is a yumpus. ------",
+    "predicted_answer": "Wren is a yumpus. ------"
+  },
+  {
+    "id": "ProntoQA_477",
+    "question": "Is the following statement true or false? Fae is not bright.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a jompus. YUMPUTS are bright. Dumpuses are luminous. Rompuses are hot. Rompuses are small. Every wumpus is a",
+    "predicted_answer": "Fae is a jompus. YUMPUTS are bright. Dumpuses are luminous. Rompuses are hot. Rompuses are small. Every wumpus is a"
+  },
+  {
+    "id": "ProntoQA_478",
+    "question": "Is the following statement true or false? Polly is small.",
+    "answer": "B",
+    "predicted_reasoning": "Polly is a wumpus. Yumpuses are small. Dumpuses are small. Vumpuses are shy. Each vumpus is a jompus. Y",
+    "predicted_answer": "Polly is a wumpus. Yumpuses are small. Dumpuses are small. Vumpuses are shy. Each vumpus is a jompus. Y"
+  },
+  {
+    "id": "ProntoQA_479",
+    "question": "Is the following statement true or false? Sally is not bitter.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a jompus. Sally is a tumpus. So Sally is a jompus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_480",
+    "question": "Is the following statement true or false? Stella is not dull.",
+    "answer": "A",
+    "predicted_reasoning": "Vumpuses are not dull. Yumpuses are luminous. Dumppuses are transparent. Dumppuses are zumpuses. Each zumpus is angry. Each zumpus is a",
+    "predicted_answer": "Vumpuses are not dull. Yumpuses are luminous. Dumppuses are transparent. Dumppuses are zumpuses. Each zumpus is angry. Each zumpus is a"
+  },
+  {
+    "id": "ProntoQA_481",
+    "question": "Is the following statement true or false? Polly is happy.",
+    "answer": "A",
+    "predicted_reasoning": "The tumpus is a dumpus. The tumpus is a wumpus. The wumpus is a yumpus. The wumpus is a rompus.",
+    "predicted_answer": "The tumpus is a dumpus. The tumpus is a wumpus. The wumpus is a yumpus. The wumpus is a rompus."
+  },
+  {
+    "id": "ProntoQA_482",
+    "question": "Is the following statement true or false? Rex is temperate.",
+    "answer": "B",
+    "predicted_reasoning": "No wumpus is a wumpus. Rex is a wumpus.",
+    "predicted_answer": "B ------"
+  },
+  {
+    "id": "ProntoQA_483",
+    "question": "Is the following statement true or false? Sally is not red.",
+    "answer": "B",
+    "predicted_reasoning": "Sally is a tumpus. Sally is a jompus. Sally is a tumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_484",
+    "question": "Is the following statement true or false? Fae is not orange.",
+    "answer": "A",
+    "predicted_reasoning": "Fae is a yumpus. Fae is orange. So the answer is: A ------",
+    "predicted_answer": "Fae is a yumpus. Fae is orange. So the answer is: A ------"
+  },
+  {
+    "id": "ProntoQA_485",
+    "question": "Is the following statement true or false? Stella is not luminous.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a jompus. Every jompus is hot. Every jompus is a numpus. Every numpus is not kind. Every numpus is an impus. Impuses",
+    "predicted_answer": "Stella is a jompus. Every jompus is hot. Every jompus is a numpus. Every numpus is not kind. Every numpus is an impus. Impuses"
+  },
+  {
+    "id": "ProntoQA_486",
+    "question": "Is the following statement true or false? Sam is opaque.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is opaque because it is opaque. The answer: B ------",
+    "predicted_answer": "Sam is opaque because it is opaque. The answer: B ------"
+  },
+  {
+    "id": "ProntoQA_487",
+    "question": "Is the following statement true or false? Rex is bright.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a wumpus. YUMPUTS are not bright. YUMPUTS are opaque. YUMPUTS are not wooden. YUMPUTS are dumpuses. The correct option",
+    "predicted_answer": "Rex is a wumpus. YUMPUTS are not bright. YUMPUTS are opaque. YUMPUTS are not wooden. YUMPUTS are dumpuses. The correct option"
+  },
+  {
+    "id": "ProntoQA_488",
+    "question": "Is the following statement true or false? Alex is hot.",
+    "answer": "A",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_489",
+    "question": "Is the following statement true or false? Rex is cold.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a rompus. ------",
+    "predicted_answer": "Rex is a rompus. ------"
+  },
+  {
+    "id": "ProntoQA_490",
+    "question": "Is the following statement true or false? Max is bright.",
+    "answer": "B",
+    "predicted_reasoning": "Max is a yumpus. Every tumpus is a yumpus. Yumpuses are not bright. Max is a numpus. ------",
+    "predicted_answer": "Max is a yumpus. Every tumpus is a yumpus. Yumpuses are not bright. Max is a numpus. ------"
+  },
+  {
+    "id": "ProntoQA_491",
+    "question": "Is the following statement true or false? Stella is cold.",
+    "answer": "B",
+    "predicted_reasoning": "Numpuses are cold. Each tumpus is an tumpus. So Stella is a tumpus. Each tumpus is an irm. Each jompus is",
+    "predicted_answer": "Numpuses are cold. Each tumpus is an tumpus. So Stella is a tumpus. Each tumpus is an irm. Each jompus is"
+  },
+  {
+    "id": "ProntoQA_492",
+    "question": "Is the following statement true or false? Rex is not orange.",
+    "answer": "A",
+    "predicted_reasoning": "A ------",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_493",
+    "question": "Is the following statement true or false? Alex is not angry.",
+    "answer": "A",
+    "predicted_reasoning": "Alex is a dumpus. Each jompus is a tumpus. Each jompus is a tumpus. Each jompus is a tumpus. The correct option",
+    "predicted_answer": "Alex is a dumpus. Each jompus is a tumpus. Each jompus is a tumpus. Each jompus is a tumpus. The correct option"
+  },
+  {
+    "id": "ProntoQA_494",
+    "question": "Is the following statement true or false? Rex is not fruity.",
+    "answer": "A",
+    "predicted_reasoning": "Rex is a rompus. Every rompus is a rompus. Each wumpus is fruity. Rompuses are numpuses.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_495",
+    "question": "Is the following statement true or false? Sam is orange.",
+    "answer": "A",
+    "predicted_reasoning": "Sam is a wumpus. Sam is a rompus. Sam is orange.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_496",
+    "question": "Is the following statement true or false? Alex is not aggressive.",
+    "answer": "B",
+    "predicted_reasoning": "Alex is a tumpus. YUMPUTS are not aggressive. So Alex is a tumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_497",
+    "question": "Is the following statement true or false? Stella is not small.",
+    "answer": "B",
+    "predicted_reasoning": "Stella is a yumpus. Yumpuses are metallic. Yumpuses are wumpuses. Every wumpus is nervous. Every wumpus is a zumpus. Every",
+    "predicted_answer": "Stella is a yumpus. Yumpuses are metallic. Yumpuses are wumpuses. Every wumpus is nervous. Every wumpus is a zumpus. Every"
+  },
+  {
+    "id": "ProntoQA_498",
+    "question": "Is the following statement true or false? Rex is not sweet.",
+    "answer": "B",
+    "predicted_reasoning": "Rex is a dumpus. Rex is a jompus. Rex is a rompus. Rex is a yumpus.",
+    "predicted_answer": "A ------"
+  },
+  {
+    "id": "ProntoQA_499",
+    "question": "Is the following statement true or false? Fae is not small.",
+    "answer": "B",
+    "predicted_reasoning": "Fae is a wumpus. Every wumpus is brown. Every wumpus is a dumpus. Every dumpus is dull. Dumpuses are yumpuses. Yumpus",
+    "predicted_answer": "Fae is a wumpus. Every wumpus is brown. Every wumpus is a dumpus. Every dumpus is dull. Dumpuses are yumpuses. Yumpus"
+  },
+  {
+    "id": "ProntoQA_500",
+    "question": "Is the following statement true or false? Polly is not small.",
+    "answer": "B",
+    "predicted_reasoning": "The yumpus is a jompus. The wumpus is a jompus. The wumpus is a jompus.",
+    "predicted_answer": "A ------"
+  }
+]
