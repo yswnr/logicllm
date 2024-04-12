@@ -1,7 +1,7 @@
 # Logic-LLM for flan-T5 and Llama 2
 
- download the git repository and upload in gdrive(for this project we ve used colab) #
- load the ipynb file into colab #
+## download the git repository and upload in gdrive(for this project we ve used colab) #
+## load the ipynb file into colab #
  change the directory to logic llm #
 
 # install and import all the necessary libraries and tools in the ipynb file
